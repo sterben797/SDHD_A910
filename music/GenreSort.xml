@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="utf-8"?>
+<SerializeSortData xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <dataName>music</dataName>
+  <SortList>
+    <StringID>
+      <id>99</id>
+      <str />
+      <data />
+    </StringID>
+    <StringID>
+      <id>0</id>
+      <str />
+      <data />
+    </StringID>
+    <StringID>
+      <id>2</id>
+      <str />
+      <data />
+    </StringID>
+    <StringID>
+      <id>3</id>
+      <str />
+      <data />
+    </StringID>
+    <StringID>
+      <id>6</id>
+      <str />
+      <data />
+    </StringID>
+    <StringID>
+      <id>1</id>
+      <str />
+      <data />
+    </StringID>
+    <StringID>
+      <id>7</id>
+      <str />
+      <data />
+    </StringID>
+    <StringID>
+      <id>8</id>
+      <str />
+      <data />
+    </StringID>
+    <StringID>
+      <id>9</id>
+      <str />
+      <data />
+    </StringID>
+    <StringID>
+      <id>5</id>
+      <str />
+      <data />
+    </StringID>
+    <StringID>
+      <id>10</id>
+      <str />
+      <data />
+    </StringID>
+    <StringID>
+      <id>100</id>
+      <str />
+      <data />
+    </StringID>
+  </SortList>
+</SerializeSortData>

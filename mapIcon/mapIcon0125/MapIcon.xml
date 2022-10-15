@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<MapIconData xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <dataName>mapIcon0125</dataName>
+  <netOpenName>
+    <id>870</id>
+    <str>v1_40 16_1</str>
+    <data />
+  </netOpenName>
+  <disableFlag>false</disableFlag>
+  <name>
+    <id>125</id>
+    <str>Shiny Smily Scratch！- 白鳥 胡桃</str>
+    <data />
+  </name>
+  <sortName>シ</sortName>
+  <image>
+    <path>CHU_UI_MapIcon_00000125.dds</path>
+  </image>
+  <defaultHave>true</defaultHave>
+  <explainText>A910からのプレゼント</explainText>
+  <priority>0</priority>
+</MapIconData>

@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<DDSImageData xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <dataName>ddsImage104642</dataName>
+  <name>
+    <id>104642</id>
+    <str>chara10464_02</str>
+    <data />
+  </name>
+  <ddsFile0>
+    <path>CHU_UI_Character_10464_02_00.dds</path>
+  </ddsFile0>
+  <ddsFile1>
+    <path>CHU_UI_Character_10464_02_01.dds</path>
+  </ddsFile1>
+  <ddsFile2>
+    <path>CHU_UI_Character_10464_02_02.dds</path>
+  </ddsFile2>
+  <netOpenName>
+    <id>2000</id>
+    <str>v2_00 00_0</str>
+    <data />
+  </netOpenName>
+</DDSImageData>

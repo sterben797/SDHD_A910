@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<MapIconData xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <dataName>mapIcon0100</dataName>
+  <netOpenName>
+    <id>870</id>
+    <str>v1_40 16_1</str>
+    <data />
+  </netOpenName>
+  <disableFlag>false</disableFlag>
+  <name>
+    <id>100</id>
+    <str>Xフルアーマー</str>
+    <data />
+  </name>
+  <sortName>エ</sortName>
+  <image>
+    <path>CHU_UI_MapIcon_00000100.dds</path>
+  </image>
+  <defaultHave>false</defaultHave>
+  <explainText>「ロックマン X DiVE」クエストで入手</explainText>
+  <priority>0</priority>
+</MapIconData>

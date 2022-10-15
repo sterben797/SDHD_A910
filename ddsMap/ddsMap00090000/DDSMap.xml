@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<DDSMapData xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <dataName>ddsMap00090000</dataName>
+  <name>
+    <id>90000</id>
+    <str>ロックマン0001_イベント1</str>
+    <data />
+  </name>
+  <ddsFile>
+    <path>CHU_MAP_event_Rmxd0001.dds</path>
+  </ddsFile>
+</DDSMapData>

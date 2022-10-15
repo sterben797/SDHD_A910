@@ -1,0 +1,1027 @@
+<?xml version="1.0" encoding="utf-8"?>
+<MapData xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <dataName>map09000000</dataName>
+  <netDispPeriod>true</netDispPeriod>
+  <name>
+    <id>9000000</id>
+    <str>ロックマン X DiVE</str>
+    <data />
+  </name>
+  <mapType>2</mapType>
+  <mapFilterID>
+    <id>0</id>
+    <str>Collaboration</str>
+    <data>イベント</data>
+  </mapFilterID>
+  <categoryName>
+    <id>0</id>
+    <str>設定なし</str>
+    <data />
+  </categoryName>
+  <timeTableName>
+    <id>-1</id>
+    <str>Invalid</str>
+    <data />
+  </timeTableName>
+  <stopPageIndex>0</stopPageIndex>
+  <stopReleaseEventName>
+    <id>-1</id>
+    <str>Invalid</str>
+    <data />
+  </stopReleaseEventName>
+  <priority>0</priority>
+  <infos>
+    <MapDataAreaInfo>
+      <mapAreaName>
+        <id>9000000</id>
+        <str>ロックマン01</str>
+        <data />
+      </mapAreaName>
+      <ddsMapName>
+        <id>90000</id>
+        <str>ロックマン0001_イベント1</str>
+        <data />
+      </ddsMapName>
+      <musicName>
+        <id>-1</id>
+        <str>Invalid</str>
+        <data />
+      </musicName>
+      <rewardName>
+        <id>99000000</id>
+        <str>エックス</str>
+        <data />
+      </rewardName>
+      <isHard>false</isHard>
+      <pageIndex>0</pageIndex>
+      <indexInPage>0</indexInPage>
+      <requiredAchievementCount>0</requiredAchievementCount>
+      <gaugeName>
+        <id>12</id>
+        <str>基本セット12</str>
+        <data />
+      </gaugeName>
+    </MapDataAreaInfo>
+    <MapDataAreaInfo>
+      <mapAreaName>
+        <id>9000001</id>
+        <str>ロックマン02</str>
+        <data />
+      </mapAreaName>
+      <ddsMapName>
+        <id>90000</id>
+        <str>ロックマン0001_イベント1</str>
+        <data />
+      </ddsMapName>
+      <musicName>
+        <id>-1</id>
+        <str>Invalid</str>
+        <data />
+      </musicName>
+      <rewardName>
+        <id>99000001</id>
+        <str>ゼロ</str>
+        <data />
+      </rewardName>
+      <isHard>false</isHard>
+      <pageIndex>0</pageIndex>
+      <indexInPage>1</indexInPage>
+      <requiredAchievementCount>0</requiredAchievementCount>
+      <gaugeName>
+        <id>12</id>
+        <str>基本セット12</str>
+        <data />
+      </gaugeName>
+    </MapDataAreaInfo>
+    <MapDataAreaInfo>
+      <mapAreaName>
+        <id>9000002</id>
+        <str>ロックマン03</str>
+        <data />
+      </mapAreaName>
+      <ddsMapName>
+        <id>90000</id>
+        <str>ロックマン0001_イベント1</str>
+        <data />
+      </ddsMapName>
+      <musicName>
+        <id>-1</id>
+        <str>Invalid</str>
+        <data />
+      </musicName>
+      <rewardName>
+        <id>99000002</id>
+        <str>アクセル</str>
+        <data />
+      </rewardName>
+      <isHard>false</isHard>
+      <pageIndex>0</pageIndex>
+      <indexInPage>2</indexInPage>
+      <requiredAchievementCount>0</requiredAchievementCount>
+      <gaugeName>
+        <id>12</id>
+        <str>基本セット12</str>
+        <data />
+      </gaugeName>
+    </MapDataAreaInfo>
+    <MapDataAreaInfo>
+      <mapAreaName>
+        <id>9000003</id>
+        <str>ロックマン04</str>
+        <data />
+      </mapAreaName>
+      <ddsMapName>
+        <id>90000</id>
+        <str>ロックマン0001_イベント1</str>
+        <data />
+      </ddsMapName>
+      <musicName>
+        <id>-1</id>
+        <str>Invalid</str>
+        <data />
+      </musicName>
+      <rewardName>
+        <id>99000003</id>
+        <str>アイリス</str>
+        <data />
+      </rewardName>
+      <isHard>false</isHard>
+      <pageIndex>0</pageIndex>
+      <indexInPage>3</indexInPage>
+      <requiredAchievementCount>0</requiredAchievementCount>
+      <gaugeName>
+        <id>12</id>
+        <str>基本セット12</str>
+        <data />
+      </gaugeName>
+    </MapDataAreaInfo>
+    <MapDataAreaInfo>
+      <mapAreaName>
+        <id>9000004</id>
+        <str>ロックマン05</str>
+        <data />
+      </mapAreaName>
+      <ddsMapName>
+        <id>90000</id>
+        <str>ロックマン0001_イベント1</str>
+        <data />
+      </ddsMapName>
+      <musicName>
+        <id>-1</id>
+        <str>Invalid</str>
+        <data />
+      </musicName>
+      <rewardName>
+        <id>99000004</id>
+        <str>エイリア</str>
+        <data />
+      </rewardName>
+      <isHard>false</isHard>
+      <pageIndex>0</pageIndex>
+      <indexInPage>4</indexInPage>
+      <requiredAchievementCount>0</requiredAchievementCount>
+      <gaugeName>
+        <id>12</id>
+        <str>基本セット12</str>
+        <data />
+      </gaugeName>
+    </MapDataAreaInfo>
+    <MapDataAreaInfo>
+      <mapAreaName>
+        <id>9000005</id>
+        <str>ロックマン06</str>
+        <data />
+      </mapAreaName>
+      <ddsMapName>
+        <id>90000</id>
+        <str>ロックマン0001_イベント1</str>
+        <data />
+      </ddsMapName>
+      <musicName>
+        <id>-1</id>
+        <str>Invalid</str>
+        <data />
+      </musicName>
+      <rewardName>
+        <id>99000005</id>
+        <str>シナモン</str>
+        <data />
+      </rewardName>
+      <isHard>false</isHard>
+      <pageIndex>0</pageIndex>
+      <indexInPage>5</indexInPage>
+      <requiredAchievementCount>0</requiredAchievementCount>
+      <gaugeName>
+        <id>12</id>
+        <str>基本セット12</str>
+        <data />
+      </gaugeName>
+    </MapDataAreaInfo>
+    <MapDataAreaInfo>
+      <mapAreaName>
+        <id>9000006</id>
+        <str>ロックマン07</str>
+        <data />
+      </mapAreaName>
+      <ddsMapName>
+        <id>90000</id>
+        <str>ロックマン0001_イベント1</str>
+        <data />
+      </ddsMapName>
+      <musicName>
+        <id>-1</id>
+        <str>Invalid</str>
+        <data />
+      </musicName>
+      <rewardName>
+        <id>99000006</id>
+        <str>パレット</str>
+        <data />
+      </rewardName>
+      <isHard>false</isHard>
+      <pageIndex>0</pageIndex>
+      <indexInPage>6</indexInPage>
+      <requiredAchievementCount>0</requiredAchievementCount>
+      <gaugeName>
+        <id>12</id>
+        <str>基本セット12</str>
+        <data />
+      </gaugeName>
+    </MapDataAreaInfo>
+    <MapDataAreaInfo>
+      <mapAreaName>
+        <id>9000007</id>
+        <str>ロックマン08</str>
+        <data />
+      </mapAreaName>
+      <ddsMapName>
+        <id>90000</id>
+        <str>ロックマン0001_イベント1</str>
+        <data />
+      </ddsMapName>
+      <musicName>
+        <id>-1</id>
+        <str>Invalid</str>
+        <data />
+      </musicName>
+      <rewardName>
+        <id>99000007</id>
+        <str>マリノ</str>
+        <data />
+      </rewardName>
+      <isHard>false</isHard>
+      <pageIndex>0</pageIndex>
+      <indexInPage>7</indexInPage>
+      <requiredAchievementCount>0</requiredAchievementCount>
+      <gaugeName>
+        <id>12</id>
+        <str>基本セット12</str>
+        <data />
+      </gaugeName>
+    </MapDataAreaInfo>
+    <MapDataAreaInfo>
+      <mapAreaName>
+        <id>9000008</id>
+        <str>ロックマン09</str>
+        <data />
+      </mapAreaName>
+      <ddsMapName>
+        <id>90000</id>
+        <str>ロックマン0001_イベント1</str>
+        <data />
+      </ddsMapName>
+      <musicName>
+        <id>-1</id>
+        <str>Invalid</str>
+        <data />
+      </musicName>
+      <rewardName>
+        <id>99000008</id>
+        <str>ゼロ(Zシリーズ)</str>
+        <data />
+      </rewardName>
+      <isHard>false</isHard>
+      <pageIndex>0</pageIndex>
+      <indexInPage>8</indexInPage>
+      <requiredAchievementCount>0</requiredAchievementCount>
+      <gaugeName>
+        <id>12</id>
+        <str>基本セット12</str>
+        <data />
+      </gaugeName>
+    </MapDataAreaInfo>
+    <MapDataAreaInfo>
+      <mapAreaName>
+        <id>9000009</id>
+        <str>ロックマン10</str>
+        <data />
+      </mapAreaName>
+      <ddsMapName>
+        <id>90000</id>
+        <str>ロックマン0001_イベント1</str>
+        <data />
+      </ddsMapName>
+      <musicName>
+        <id>-1</id>
+        <str>Invalid</str>
+        <data />
+      </musicName>
+      <rewardName>
+        <id>99000009</id>
+        <str>コピーエックス</str>
+        <data />
+      </rewardName>
+      <isHard>false</isHard>
+      <pageIndex>1</pageIndex>
+      <indexInPage>0</indexInPage>
+      <requiredAchievementCount>0</requiredAchievementCount>
+      <gaugeName>
+        <id>12</id>
+        <str>基本セット12</str>
+        <data />
+      </gaugeName>
+    </MapDataAreaInfo>
+    <MapDataAreaInfo>
+      <mapAreaName>
+        <id>9000010</id>
+        <str>ロックマン11</str>
+        <data />
+      </mapAreaName>
+      <ddsMapName>
+        <id>90000</id>
+        <str>ロックマン0001_イベント1</str>
+        <data />
+      </ddsMapName>
+      <musicName>
+        <id>-1</id>
+        <str>Invalid</str>
+        <data />
+      </musicName>
+      <rewardName>
+        <id>99000010</id>
+        <str>シェル</str>
+        <data />
+      </rewardName>
+      <isHard>false</isHard>
+      <pageIndex>1</pageIndex>
+      <indexInPage>1</indexInPage>
+      <requiredAchievementCount>0</requiredAchievementCount>
+      <gaugeName>
+        <id>12</id>
+        <str>基本セット12</str>
+        <data />
+      </gaugeName>
+    </MapDataAreaInfo>
+    <MapDataAreaInfo>
+      <mapAreaName>
+        <id>9000011</id>
+        <str>ロックマン12</str>
+        <data />
+      </mapAreaName>
+      <ddsMapName>
+        <id>90000</id>
+        <str>ロックマン0001_イベント1</str>
+        <data />
+      </ddsMapName>
+      <musicName>
+        <id>-1</id>
+        <str>Invalid</str>
+        <data />
+      </musicName>
+      <rewardName>
+        <id>99000011</id>
+        <str>レヴィアタン</str>
+        <data />
+      </rewardName>
+      <isHard>false</isHard>
+      <pageIndex>1</pageIndex>
+      <indexInPage>2</indexInPage>
+      <requiredAchievementCount>0</requiredAchievementCount>
+      <gaugeName>
+        <id>12</id>
+        <str>基本セット12</str>
+        <data />
+      </gaugeName>
+    </MapDataAreaInfo>
+    <MapDataAreaInfo>
+      <mapAreaName>
+        <id>9000012</id>
+        <str>ロックマン13</str>
+        <data />
+      </mapAreaName>
+      <ddsMapName>
+        <id>90000</id>
+        <str>ロックマン0001_イベント1</str>
+        <data />
+      </ddsMapName>
+      <musicName>
+        <id>-1</id>
+        <str>Invalid</str>
+        <data />
+      </musicName>
+      <rewardName>
+        <id>99000012</id>
+        <str>パンドラ</str>
+        <data />
+      </rewardName>
+      <isHard>false</isHard>
+      <pageIndex>1</pageIndex>
+      <indexInPage>3</indexInPage>
+      <requiredAchievementCount>0</requiredAchievementCount>
+      <gaugeName>
+        <id>12</id>
+        <str>基本セット12</str>
+        <data />
+      </gaugeName>
+    </MapDataAreaInfo>
+    <MapDataAreaInfo>
+      <mapAreaName>
+        <id>9000013</id>
+        <str>ロックマン14</str>
+        <data />
+      </mapAreaName>
+      <ddsMapName>
+        <id>90000</id>
+        <str>ロックマン0001_イベント1</str>
+        <data />
+      </ddsMapName>
+      <musicName>
+        <id>-1</id>
+        <str>Invalid</str>
+        <data />
+      </musicName>
+      <rewardName>
+        <id>99000013</id>
+        <str>ハルピュイア</str>
+        <data />
+      </rewardName>
+      <isHard>false</isHard>
+      <pageIndex>1</pageIndex>
+      <indexInPage>4</indexInPage>
+      <requiredAchievementCount>0</requiredAchievementCount>
+      <gaugeName>
+        <id>12</id>
+        <str>基本セット12</str>
+        <data />
+      </gaugeName>
+    </MapDataAreaInfo>
+    <MapDataAreaInfo>
+      <mapAreaName>
+        <id>9000014</id>
+        <str>ロックマン15</str>
+        <data />
+      </mapAreaName>
+      <ddsMapName>
+        <id>90000</id>
+        <str>ロックマン0001_イベント1</str>
+        <data />
+      </ddsMapName>
+      <musicName>
+        <id>-1</id>
+        <str>Invalid</str>
+        <data />
+      </musicName>
+      <rewardName>
+        <id>99000014</id>
+        <str>エール</str>
+        <data />
+      </rewardName>
+      <isHard>false</isHard>
+      <pageIndex>1</pageIndex>
+      <indexInPage>5</indexInPage>
+      <requiredAchievementCount>0</requiredAchievementCount>
+      <gaugeName>
+        <id>12</id>
+        <str>基本セット12</str>
+        <data />
+      </gaugeName>
+    </MapDataAreaInfo>
+    <MapDataAreaInfo>
+      <mapAreaName>
+        <id>9000015</id>
+        <str>ロックマン16</str>
+        <data />
+      </mapAreaName>
+      <ddsMapName>
+        <id>90000</id>
+        <str>ロックマン0001_イベント1</str>
+        <data />
+      </ddsMapName>
+      <musicName>
+        <id>-1</id>
+        <str>Invalid</str>
+        <data />
+      </musicName>
+      <rewardName>
+        <id>99000015</id>
+        <str>ロール</str>
+        <data />
+      </rewardName>
+      <isHard>false</isHard>
+      <pageIndex>1</pageIndex>
+      <indexInPage>6</indexInPage>
+      <requiredAchievementCount>0</requiredAchievementCount>
+      <gaugeName>
+        <id>12</id>
+        <str>基本セット12</str>
+        <data />
+      </gaugeName>
+    </MapDataAreaInfo>
+    <MapDataAreaInfo>
+      <mapAreaName>
+        <id>9000016</id>
+        <str>ロックマン17</str>
+        <data />
+      </mapAreaName>
+      <ddsMapName>
+        <id>90000</id>
+        <str>ロックマン0001_イベント1</str>
+        <data />
+      </ddsMapName>
+      <musicName>
+        <id>-1</id>
+        <str>Invalid</str>
+        <data />
+      </musicName>
+      <rewardName>
+        <id>99000016</id>
+        <str>ドロン・ボーン</str>
+        <data />
+      </rewardName>
+      <isHard>false</isHard>
+      <pageIndex>1</pageIndex>
+      <indexInPage>7</indexInPage>
+      <requiredAchievementCount>0</requiredAchievementCount>
+      <gaugeName>
+        <id>12</id>
+        <str>基本セット12</str>
+        <data />
+      </gaugeName>
+    </MapDataAreaInfo>
+    <MapDataAreaInfo>
+      <mapAreaName>
+        <id>9000017</id>
+        <str>ロックマン18</str>
+        <data />
+      </mapAreaName>
+      <ddsMapName>
+        <id>90000</id>
+        <str>ロックマン0001_イベント1</str>
+        <data />
+      </ddsMapName>
+      <musicName>
+        <id>-1</id>
+        <str>Invalid</str>
+        <data />
+      </musicName>
+      <rewardName>
+        <id>99000017</id>
+        <str>ロール・キャスケット</str>
+        <data />
+      </rewardName>
+      <isHard>false</isHard>
+      <pageIndex>1</pageIndex>
+      <indexInPage>8</indexInPage>
+      <requiredAchievementCount>0</requiredAchievementCount>
+      <gaugeName>
+        <id>12</id>
+        <str>基本セット12</str>
+        <data />
+      </gaugeName>
+    </MapDataAreaInfo>
+    <MapDataAreaInfo>
+      <mapAreaName>
+        <id>9000018</id>
+        <str>ロックマン19</str>
+        <data />
+      </mapAreaName>
+      <ddsMapName>
+        <id>90000</id>
+        <str>ロックマン0001_イベント1</str>
+        <data />
+      </ddsMapName>
+      <musicName>
+        <id>-1</id>
+        <str>Invalid</str>
+        <data />
+      </musicName>
+      <rewardName>
+        <id>99000018</id>
+        <str>フォルテ.EXE</str>
+        <data />
+      </rewardName>
+      <isHard>false</isHard>
+      <pageIndex>2</pageIndex>
+      <indexInPage>0</indexInPage>
+      <requiredAchievementCount>0</requiredAchievementCount>
+      <gaugeName>
+        <id>12</id>
+        <str>基本セット12</str>
+        <data />
+      </gaugeName>
+    </MapDataAreaInfo>
+    <MapDataAreaInfo>
+      <mapAreaName>
+        <id>9000019</id>
+        <str>ロックマン20</str>
+        <data />
+      </mapAreaName>
+      <ddsMapName>
+        <id>90000</id>
+        <str>ロックマン0001_イベント1</str>
+        <data />
+      </ddsMapName>
+      <musicName>
+        <id>-1</id>
+        <str>Invalid</str>
+        <data />
+      </musicName>
+      <rewardName>
+        <id>99000019</id>
+        <str>マグマード・ドラグーン</str>
+        <data />
+      </rewardName>
+      <isHard>false</isHard>
+      <pageIndex>2</pageIndex>
+      <indexInPage>1</indexInPage>
+      <requiredAchievementCount>0</requiredAchievementCount>
+      <gaugeName>
+        <id>12</id>
+        <str>基本セット12</str>
+        <data />
+      </gaugeName>
+    </MapDataAreaInfo>
+    <MapDataAreaInfo>
+      <mapAreaName>
+        <id>9000020</id>
+        <str>ロックマン21</str>
+        <data />
+      </mapAreaName>
+      <ddsMapName>
+        <id>90000</id>
+        <str>ロックマン0001_イベント1</str>
+        <data />
+      </ddsMapName>
+      <musicName>
+        <id>-1</id>
+        <str>Invalid</str>
+        <data />
+      </musicName>
+      <rewardName>
+        <id>99000020</id>
+        <str>サイバー・クジャッカー</str>
+        <data />
+      </rewardName>
+      <isHard>false</isHard>
+      <pageIndex>2</pageIndex>
+      <indexInPage>2</indexInPage>
+      <requiredAchievementCount>0</requiredAchievementCount>
+      <gaugeName>
+        <id>12</id>
+        <str>基本セット12</str>
+        <data />
+      </gaugeName>
+    </MapDataAreaInfo>
+    <MapDataAreaInfo>
+      <mapAreaName>
+        <id>9000021</id>
+        <str>ロックマン22</str>
+        <data />
+      </mapAreaName>
+      <ddsMapName>
+        <id>90000</id>
+        <str>ロックマン0001_イベント1</str>
+        <data />
+      </ddsMapName>
+      <musicName>
+        <id>-1</id>
+        <str>Invalid</str>
+        <data />
+      </musicName>
+      <rewardName>
+        <id>99000021</id>
+        <str>カーネル</str>
+        <data />
+      </rewardName>
+      <isHard>false</isHard>
+      <pageIndex>2</pageIndex>
+      <indexInPage>3</indexInPage>
+      <requiredAchievementCount>0</requiredAchievementCount>
+      <gaugeName>
+        <id>12</id>
+        <str>基本セット12</str>
+        <data />
+      </gaugeName>
+    </MapDataAreaInfo>
+    <MapDataAreaInfo>
+      <mapAreaName>
+        <id>9000022</id>
+        <str>ロックマン23</str>
+        <data />
+      </mapAreaName>
+      <ddsMapName>
+        <id>90000</id>
+        <str>ロックマン0001_イベント1</str>
+        <data />
+      </ddsMapName>
+      <musicName>
+        <id>-1</id>
+        <str>Invalid</str>
+        <data />
+      </musicName>
+      <rewardName>
+        <id>99000022</id>
+        <str>シグマ</str>
+        <data />
+      </rewardName>
+      <isHard>false</isHard>
+      <pageIndex>2</pageIndex>
+      <indexInPage>4</indexInPage>
+      <requiredAchievementCount>0</requiredAchievementCount>
+      <gaugeName>
+        <id>12</id>
+        <str>基本セット12</str>
+        <data />
+      </gaugeName>
+    </MapDataAreaInfo>
+    <MapDataAreaInfo>
+      <mapAreaName>
+        <id>9000023</id>
+        <str>ロックマン24</str>
+        <data />
+      </mapAreaName>
+      <ddsMapName>
+        <id>90000</id>
+        <str>ロックマン0001_イベント1</str>
+        <data />
+      </ddsMapName>
+      <musicName>
+        <id>-1</id>
+        <str>Invalid</str>
+        <data />
+      </musicName>
+      <rewardName>
+        <id>99000023</id>
+        <str>ヴィア</str>
+        <data />
+      </rewardName>
+      <isHard>false</isHard>
+      <pageIndex>2</pageIndex>
+      <indexInPage>5</indexInPage>
+      <requiredAchievementCount>0</requiredAchievementCount>
+      <gaugeName>
+        <id>12</id>
+        <str>基本セット12</str>
+        <data />
+      </gaugeName>
+    </MapDataAreaInfo>
+    <MapDataAreaInfo>
+      <mapAreaName>
+        <id>9000024</id>
+        <str>ロックマン25</str>
+        <data />
+      </mapAreaName>
+      <ddsMapName>
+        <id>90000</id>
+        <str>ロックマン0001_イベント1</str>
+        <data />
+      </ddsMapName>
+      <musicName>
+        <id>-1</id>
+        <str>Invalid</str>
+        <data />
+      </musicName>
+      <rewardName>
+        <id>99000024</id>
+        <str>リコ</str>
+        <data />
+      </rewardName>
+      <isHard>false</isHard>
+      <pageIndex>2</pageIndex>
+      <indexInPage>6</indexInPage>
+      <requiredAchievementCount>0</requiredAchievementCount>
+      <gaugeName>
+        <id>12</id>
+        <str>基本セット12</str>
+        <data />
+      </gaugeName>
+    </MapDataAreaInfo>
+    <MapDataAreaInfo>
+      <mapAreaName>
+        <id>9000025</id>
+        <str>ロックマン26</str>
+        <data />
+      </mapAreaName>
+      <ddsMapName>
+        <id>90000</id>
+        <str>ロックマン0001_イベント1</str>
+        <data />
+      </ddsMapName>
+      <musicName>
+        <id>-1</id>
+        <str>Invalid</str>
+        <data />
+      </musicName>
+      <rewardName>
+        <id>99000025</id>
+        <str>アイコ</str>
+        <data />
+      </rewardName>
+      <isHard>false</isHard>
+      <pageIndex>2</pageIndex>
+      <indexInPage>7</indexInPage>
+      <requiredAchievementCount>0</requiredAchievementCount>
+      <gaugeName>
+        <id>12</id>
+        <str>基本セット12</str>
+        <data />
+      </gaugeName>
+    </MapDataAreaInfo>
+    <MapDataAreaInfo>
+      <mapAreaName>
+        <id>9000028</id>
+        <str>ロックマン29</str>
+        <data />
+      </mapAreaName>
+      <ddsMapName>
+        <id>90000</id>
+        <str>ロックマン0001_イベント1</str>
+        <data />
+      </ddsMapName>
+      <musicName>
+        <id>-1</id>
+        <str>Invalid</str>
+        <data />
+      </musicName>
+      <rewardName>
+        <id>99000030</id>
+        <str>ドロワクレール</str>
+        <data />
+      </rewardName>
+      <isHard>false</isHard>
+      <pageIndex>2</pageIndex>
+      <indexInPage>8</indexInPage>
+      <requiredAchievementCount>0</requiredAchievementCount>
+      <gaugeName>
+        <id>12</id>
+        <str>基本セット12</str>
+        <data />
+      </gaugeName>
+    </MapDataAreaInfo>
+    <MapDataAreaInfo>
+      <mapAreaName>
+        <id>9000030</id>
+        <str>ロックマン31</str>
+        <data />
+      </mapAreaName>
+      <ddsMapName>
+        <id>90000</id>
+        <str>ロックマン0001_イベント1</str>
+        <data />
+      </ddsMapName>
+      <musicName>
+        <id>-1</id>
+        <str>Invalid</str>
+        <data />
+      </musicName>
+      <rewardName>
+        <id>99000031</id>
+        <str>アンジュピトール</str>
+        <data />
+      </rewardName>
+      <isHard>false</isHard>
+      <pageIndex>3</pageIndex>
+      <indexInPage>3</indexInPage>
+      <requiredAchievementCount>0</requiredAchievementCount>
+      <gaugeName>
+        <id>12</id>
+        <str>基本セット12</str>
+        <data />
+      </gaugeName>
+    </MapDataAreaInfo>
+    <MapDataAreaInfo>
+      <mapAreaName>
+        <id>9000031</id>
+        <str>ロックマン32</str>
+        <data />
+      </mapAreaName>
+      <ddsMapName>
+        <id>90000</id>
+        <str>ロックマン0001_イベント1</str>
+        <data />
+      </ddsMapName>
+      <musicName>
+        <id>-1</id>
+        <str>Invalid</str>
+        <data />
+      </musicName>
+      <rewardName>
+        <id>99000032</id>
+        <str>ゲート・ナイトメア</str>
+        <data />
+      </rewardName>
+      <isHard>false</isHard>
+      <pageIndex>3</pageIndex>
+      <indexInPage>5</indexInPage>
+      <requiredAchievementCount>0</requiredAchievementCount>
+      <gaugeName>
+        <id>12</id>
+        <str>基本セット12</str>
+        <data />
+      </gaugeName>
+    </MapDataAreaInfo>
+    <MapDataAreaInfo>
+      <mapAreaName>
+        <id>9000026</id>
+        <str>ロックマン27</str>
+        <data />
+      </mapAreaName>
+      <ddsMapName>
+        <id>90000</id>
+        <str>ロックマン0001_イベント1</str>
+        <data />
+      </ddsMapName>
+      <musicName>
+        <id>-1</id>
+        <str>Invalid</str>
+        <data />
+      </musicName>
+      <rewardName>
+        <id>99000026</id>
+        <str>ロックマン X DiVE - ①</str>
+        <data />
+      </rewardName>
+      <isHard>false</isHard>
+      <pageIndex>4</pageIndex>
+      <indexInPage>3</indexInPage>
+      <requiredAchievementCount>0</requiredAchievementCount>
+      <gaugeName>
+        <id>14</id>
+        <str>基本セット14</str>
+        <data />
+      </gaugeName>
+    </MapDataAreaInfo>
+    <MapDataAreaInfo>
+      <mapAreaName>
+        <id>9000027</id>
+        <str>ロックマン28</str>
+        <data />
+      </mapAreaName>
+      <ddsMapName>
+        <id>90000</id>
+        <str>ロックマン0001_イベント1</str>
+        <data />
+      </ddsMapName>
+      <musicName>
+        <id>-1</id>
+        <str>Invalid</str>
+        <data />
+      </musicName>
+      <rewardName>
+        <id>99000028</id>
+        <str>Xフルアーマー</str>
+        <data />
+      </rewardName>
+      <isHard>false</isHard>
+      <pageIndex>4</pageIndex>
+      <indexInPage>5</indexInPage>
+      <requiredAchievementCount>0</requiredAchievementCount>
+      <gaugeName>
+        <id>14</id>
+        <str>基本セット14</str>
+        <data />
+      </gaugeName>
+    </MapDataAreaInfo>
+    <MapDataAreaInfo>
+      <mapAreaName>
+        <id>9000029</id>
+        <str>ロックマン30</str>
+        <data />
+      </mapAreaName>
+      <ddsMapName>
+        <id>90000</id>
+        <str>ロックマン0001_イベント1</str>
+        <data />
+      </ddsMapName>
+      <musicName>
+        <id>-1</id>
+        <str>Invalid</str>
+        <data />
+      </musicName>
+      <rewardName>
+        <id>20008000</id>
+        <str>ペンギンスタチュウ</str>
+        <data />
+      </rewardName>
+      <isHard>false</isHard>
+      <pageIndex>4</pageIndex>
+      <indexInPage>8</indexInPage>
+      <requiredAchievementCount>1</requiredAchievementCount>
+      <gaugeName>
+        <id>14</id>
+        <str>基本セット14</str>
+        <data />
+      </gaugeName>
+    </MapDataAreaInfo>
+  </infos>
+</MapData>

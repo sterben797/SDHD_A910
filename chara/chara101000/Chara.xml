@@ -1,0 +1,283 @@
+<?xml version="1.0" encoding="utf-8"?>
+<CharaData xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <dataName>chara101000</dataName>
+  <releaseTagName>
+    <id>13</id>
+    <str>v2 2.05.00</str>
+    <data />
+  </releaseTagName>
+  <netOpenName>
+    <id>2110</id>
+    <str>v2_05 04_1</str>
+    <data />
+  </netOpenName>
+  <disableFlag>false</disableFlag>
+  <name>
+    <id>101000</id>
+    <str>エックス</str>
+    <data />
+  </name>
+  <explainText />
+  <sortName>エックス</sortName>
+  <works>
+    <id>9920</id>
+    <str>ロックマン X DiVE</str>
+    <data />
+  </works>
+  <illustratorName>
+    <id>50</id>
+    <str />
+    <data />
+  </illustratorName>
+  <defaultHave>false</defaultHave>
+  <rareType>0</rareType>
+  <normCondition>
+    <conditions />
+  </normCondition>
+  <defaultImages>
+    <id>101000</id>
+    <str>chara10100_00</str>
+    <data />
+  </defaultImages>
+  <addImages1>
+    <changeImg>true</changeImg>
+    <charaName>
+      <id>101001</id>
+      <str>Xフルアーマー</str>
+      <data />
+    </charaName>
+    <image>
+      <id>101001</id>
+      <str>chara10100_01</str>
+      <data />
+    </image>
+    <rank>5</rank>
+  </addImages1>
+  <addImages2>
+    <changeImg>true</changeImg>
+    <charaName>
+      <id>101002</id>
+      <str>Xセカンドアーマー</str>
+      <data />
+    </charaName>
+    <image>
+      <id>101002</id>
+      <str>chara10100_02</str>
+      <data />
+    </image>
+    <rank>10</rank>
+  </addImages2>
+  <addImages3>
+    <changeImg>true</changeImg>
+    <charaName>
+      <id>101003</id>
+      <str>Xマックスアーマー</str>
+      <data />
+    </charaName>
+    <image>
+      <id>101003</id>
+      <str>chara10100_03</str>
+      <data />
+    </image>
+    <rank>12</rank>
+  </addImages3>
+  <addImages4>
+    <changeImg>true</changeImg>
+    <charaName>
+      <id>101004</id>
+      <str>Xフォースアーマー</str>
+      <data />
+    </charaName>
+    <image>
+      <id>101004</id>
+      <str>chara10100_04</str>
+      <data />
+    </image>
+    <rank>15</rank>
+  </addImages4>
+  <addImages5>
+    <changeImg>true</changeImg>
+    <charaName>
+      <id>101005</id>
+      <str>Xアルティメットアーマー</str>
+      <data />
+    </charaName>
+    <image>
+      <id>101005</id>
+      <str>chara10100_05</str>
+      <data />
+    </image>
+    <rank>17</rank>
+  </addImages5>
+  <addImages6>
+    <changeImg>true</changeImg>
+    <charaName>
+      <id>101006</id>
+      <str>Xファルコンアーマー</str>
+      <data />
+    </charaName>
+    <image>
+      <id>101006</id>
+      <str>chara10100_06</str>
+      <data />
+    </image>
+    <rank>20</rank>
+  </addImages6>
+  <addImages7>
+    <changeImg>true</changeImg>
+    <charaName>
+      <id>101007</id>
+      <str>Xダイヴアーマー</str>
+      <data />
+    </charaName>
+    <image>
+      <id>101007</id>
+      <str>chara10100_07</str>
+      <data />
+    </image>
+    <rank>25</rank>
+  </addImages7>
+  <addImages8>
+    <changeImg>false</changeImg>
+    <charaName>
+      <id>-1</id>
+      <str>Invalid</str>
+      <data />
+    </charaName>
+    <image>
+      <id>-1</id>
+      <str>Invalid</str>
+      <data />
+    </image>
+    <rank>1</rank>
+  </addImages8>
+  <addImages9>
+    <changeImg>false</changeImg>
+    <charaName>
+      <id>-1</id>
+      <str>Invalid</str>
+      <data />
+    </charaName>
+    <image>
+      <id>-1</id>
+      <str>Invalid</str>
+      <data />
+    </image>
+    <rank>1</rank>
+  </addImages9>
+  <priority>0</priority>
+  <ranks>
+    <CharaRankData>
+      <index>1</index>
+      <type>1</type>
+      <rewardSkillSeed>
+        <rewardSkillSeed>
+          <id>61000055</id>
+          <str>ジャッジメント×5</str>
+          <data />
+        </rewardSkillSeed>
+      </rewardSkillSeed>
+      <text>
+        <flavorTxtFile>
+          <path />
+        </flavorTxtFile>
+      </text>
+    </CharaRankData>
+    <CharaRankData>
+      <index>5</index>
+      <type>1</type>
+      <rewardSkillSeed>
+        <rewardSkillSeed>
+          <id>61000051</id>
+          <str>ジャッジメント×1</str>
+          <data />
+        </rewardSkillSeed>
+      </rewardSkillSeed>
+      <text>
+        <flavorTxtFile>
+          <path />
+        </flavorTxtFile>
+      </text>
+    </CharaRankData>
+    <CharaRankData>
+      <index>10</index>
+      <type>1</type>
+      <rewardSkillSeed>
+        <rewardSkillSeed>
+          <id>61000055</id>
+          <str>ジャッジメント×5</str>
+          <data />
+        </rewardSkillSeed>
+      </rewardSkillSeed>
+      <text>
+        <flavorTxtFile>
+          <path />
+        </flavorTxtFile>
+      </text>
+    </CharaRankData>
+    <CharaRankData>
+      <index>15</index>
+      <type>1</type>
+      <rewardSkillSeed>
+        <rewardSkillSeed>
+          <id>61000051</id>
+          <str>ジャッジメント×1</str>
+          <data />
+        </rewardSkillSeed>
+      </rewardSkillSeed>
+      <text>
+        <flavorTxtFile>
+          <path />
+        </flavorTxtFile>
+      </text>
+    </CharaRankData>
+    <CharaRankData>
+      <index>25</index>
+      <type>1</type>
+      <rewardSkillSeed>
+        <rewardSkillSeed>
+          <id>61000101</id>
+          <str>限界突破の証×1</str>
+          <data />
+        </rewardSkillSeed>
+      </rewardSkillSeed>
+      <text>
+        <flavorTxtFile>
+          <path />
+        </flavorTxtFile>
+      </text>
+    </CharaRankData>
+    <CharaRankData>
+      <index>50</index>
+      <type>1</type>
+      <rewardSkillSeed>
+        <rewardSkillSeed>
+          <id>61000111</id>
+          <str>真・限界突破の証×1</str>
+          <data />
+        </rewardSkillSeed>
+      </rewardSkillSeed>
+      <text>
+        <flavorTxtFile>
+          <path />
+        </flavorTxtFile>
+      </text>
+    </CharaRankData>
+    <CharaRankData>
+      <index>100</index>
+      <type>1</type>
+      <rewardSkillSeed>
+        <rewardSkillSeed>
+          <id>61000121</id>
+          <str>絆・限界突破の証×1</str>
+          <data />
+        </rewardSkillSeed>
+      </rewardSkillSeed>
+      <text>
+        <flavorTxtFile>
+          <path />
+        </flavorTxtFile>
+      </text>
+    </CharaRankData>
+  </ranks>
+</CharaData>

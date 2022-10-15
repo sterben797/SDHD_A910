@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<NamePlateData xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <dataName>namePlate00009001</dataName>
+  <netOpenName>
+    <id>830</id>
+    <str>v2_00 12_3</str>
+    <data />
+  </netOpenName>
+  <disableFlag>false</disableFlag>
+  <name>
+    <id>9001</id>
+    <str>ロックマン X DiVE - ②</str>
+    <data />
+  </name>
+  <sortName>ロ</sortName>
+  <image>
+    <path>CHU_UI_NamePlate_00009001.dds</path>
+  </image>
+  <defaultHave>false</defaultHave>
+  <explainText>「ロックマン X DiVE」イベントで入手</explainText>
+  <priority>0</priority>
+</NamePlateData>

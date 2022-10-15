@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<MapIconData xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <dataName>mapIcon0109</dataName>
+  <netOpenName>
+    <id>870</id>
+    <str>v1_40 16_1</str>
+    <data />
+  </netOpenName>
+  <disableFlag>false</disableFlag>
+  <name>
+    <id>109</id>
+    <str>天堂 陽菜 (SPiKA Ver.)</str>
+    <data />
+  </name>
+  <sortName>テ</sortName>
+  <image>
+    <path>CHU_UI_MapIcon_00000109.dds</path>
+  </image>
+  <defaultHave>true</defaultHave>
+  <explainText>A910からのプレゼント</explainText>
+  <priority>0</priority>
+</MapIconData>

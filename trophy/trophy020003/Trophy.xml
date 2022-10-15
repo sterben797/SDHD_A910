@@ -1,0 +1,251 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TrophyData xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <dataName>trophy020003</dataName>
+  <netOpenName>
+    <id>2100</id>
+    <str>v2_05 00_0</str>
+    <data />
+  </netOpenName>
+  <disableFlag>false</disableFlag>
+  <name>
+    <id>20003</id>
+    <str>そして私は、新たな音を奏でる。</str>
+    <data />
+  </name>
+  <explainText>Anemone/ULTIMA/RANK SSS達成</explainText>
+  <defaultHave>false</defaultHave>
+  <rareType>5</rareType>
+  <normCondition>
+    <conditions>
+      <ConditionSubData>
+        <type>1</type>
+        <eventData>
+          <eventNames>
+            <list />
+          </eventNames>
+        </eventData>
+        <playMusicData>
+          <genreNames>
+            <list />
+          </genreNames>
+          <musicNames>
+            <list>
+              <StringID>
+                <id>65</id>
+                <str>Anemone</str>
+                <data />
+              </StringID>
+            </list>
+          </musicNames>
+          <musicDif>
+            <id>4</id>
+            <str>Ultima</str>
+            <data>ULTIMA</data>
+          </musicDif>
+        </playMusicData>
+        <playSettingData>
+          <playOptionSpeed>
+            <id>-1</id>
+            <str>Invalid</str>
+            <data />
+          </playOptionSpeed>
+        </playSettingData>
+        <playMusicResultData>
+          <memberNum>0</memberNum>
+          <scoreRank>
+            <id>-1</id>
+            <str>Invalid</str>
+            <data />
+          </scoreRank>
+          <matchingResultType>0</matchingResultType>
+          <memberRanking>0</memberRanking>
+          <gameOver>false</gameOver>
+          <fullCombo>false</fullCombo>
+          <fullChain>false</fullChain>
+          <allJustice>false</allJustice>
+          <memberOtherTrophyName>
+            <id>-1</id>
+            <str>Invalid</str>
+            <data />
+          </memberOtherTrophyName>
+          <missNum>0</missNum>
+        </playMusicResultData>
+        <playTotalResultData>
+          <allPlayedMusicName>
+            <id>-1</id>
+            <str>Invalid</str>
+            <data />
+          </allPlayedMusicName>
+        </playTotalResultData>
+        <personData>
+          <playerRebirthCount>0</playerRebirthCount>
+          <playerLv>0</playerLv>
+          <playerRating>0</playerRating>
+          <totalGamePoint>0</totalGamePoint>
+          <totalNetBattle>0</totalNetBattle>
+          <battleRank>
+            <id>-1</id>
+            <str>Invalid</str>
+            <data />
+          </battleRank>
+        </personData>
+        <charaData>
+          <targetRank>0</targetRank>
+        </charaData>
+        <skillData>
+          <lvMax>false</lvMax>
+        </skillData>
+        <trophyData>
+          <haveTrophyNames>
+            <list />
+          </haveTrophyNames>
+        </trophyData>
+        <travelData>
+          <japanRegionID>
+            <id>-1</id>
+            <str>Invalid</str>
+            <data />
+          </japanRegionID>
+          <japanRegionPlayNum>0</japanRegionPlayNum>
+          <playedRegionNum>0</playedRegionNum>
+          <lapNum>0</lapNum>
+        </travelData>
+        <musicData>
+          <musicName>
+            <id>-1</id>
+            <str>Invalid</str>
+            <data />
+          </musicName>
+          <musicDif>
+            <id>-1</id>
+            <str>Invalid</str>
+            <data />
+          </musicDif>
+          <masterUnderAll>false</masterUnderAll>
+          <totalPlayNum>0</totalPlayNum>
+          <scoreRank>
+            <id>-1</id>
+            <str>Invalid</str>
+            <data />
+          </scoreRank>
+          <fullCombo>false</fullCombo>
+          <fullChain>false</fullChain>
+          <allJustice>false</allJustice>
+          <playNum>0</playNum>
+        </musicData>
+      </ConditionSubData>
+      <ConditionSubData>
+        <type>3</type>
+        <eventData>
+          <eventNames>
+            <list />
+          </eventNames>
+        </eventData>
+        <playMusicData>
+          <genreNames>
+            <list />
+          </genreNames>
+          <musicNames>
+            <list />
+          </musicNames>
+          <musicDif>
+            <id>-1</id>
+            <str>Invalid</str>
+            <data />
+          </musicDif>
+        </playMusicData>
+        <playSettingData>
+          <playOptionSpeed>
+            <id>-1</id>
+            <str>Invalid</str>
+            <data />
+          </playOptionSpeed>
+        </playSettingData>
+        <playMusicResultData>
+          <memberNum>0</memberNum>
+          <scoreRank>
+            <id>12</id>
+            <str>SSS</str>
+            <data>SSS</data>
+          </scoreRank>
+          <matchingResultType>0</matchingResultType>
+          <memberRanking>0</memberRanking>
+          <gameOver>false</gameOver>
+          <fullCombo>false</fullCombo>
+          <fullChain>false</fullChain>
+          <allJustice>false</allJustice>
+          <memberOtherTrophyName>
+            <id>-1</id>
+            <str>Invalid</str>
+            <data />
+          </memberOtherTrophyName>
+          <missNum>0</missNum>
+        </playMusicResultData>
+        <playTotalResultData>
+          <allPlayedMusicName>
+            <id>-1</id>
+            <str>Invalid</str>
+            <data />
+          </allPlayedMusicName>
+        </playTotalResultData>
+        <personData>
+          <playerRebirthCount>0</playerRebirthCount>
+          <playerLv>0</playerLv>
+          <playerRating>0</playerRating>
+          <totalGamePoint>0</totalGamePoint>
+          <totalNetBattle>0</totalNetBattle>
+          <battleRank>
+            <id>-1</id>
+            <str>Invalid</str>
+            <data />
+          </battleRank>
+        </personData>
+        <charaData>
+          <targetRank>0</targetRank>
+        </charaData>
+        <skillData>
+          <lvMax>false</lvMax>
+        </skillData>
+        <trophyData>
+          <haveTrophyNames>
+            <list />
+          </haveTrophyNames>
+        </trophyData>
+        <travelData>
+          <japanRegionID>
+            <id>-1</id>
+            <str>Invalid</str>
+            <data />
+          </japanRegionID>
+          <japanRegionPlayNum>0</japanRegionPlayNum>
+          <playedRegionNum>0</playedRegionNum>
+          <lapNum>0</lapNum>
+        </travelData>
+        <musicData>
+          <musicName>
+            <id>-1</id>
+            <str>Invalid</str>
+            <data />
+          </musicName>
+          <musicDif>
+            <id>-1</id>
+            <str>Invalid</str>
+            <data />
+          </musicDif>
+          <masterUnderAll>false</masterUnderAll>
+          <totalPlayNum>0</totalPlayNum>
+          <scoreRank>
+            <id>-1</id>
+            <str>Invalid</str>
+            <data />
+          </scoreRank>
+          <fullCombo>false</fullCombo>
+          <fullChain>false</fullChain>
+          <allJustice>false</allJustice>
+          <playNum>0</playNum>
+        </musicData>
+      </ConditionSubData>
+    </conditions>
+  </normCondition>
+  <priority>0</priority>
+</TrophyData>

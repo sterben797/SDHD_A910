@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="utf-8"?>
+<MapAreaData xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <dataName>mapArea09000012</dataName>
+  <netOpenName>
+    <id>2020</id>
+    <str>v2_00 12_1</str>
+    <data />
+  </netOpenName>
+  <name>
+    <id>9000012</id>
+    <str>ロックマン13</str>
+    <data />
+  </name>
+  <mapBonusName>
+    <id>1000000</id>
+    <str>ロックマン_01</str>
+    <data />
+  </mapBonusName>
+  <mapAreaBoostType>0</mapAreaBoostType>
+  <mapAreaBoostMultiple>10</mapAreaBoostMultiple>
+  <shorteningGridCountList>
+    <MapAreaGridShorteningData>
+      <count>0</count>
+    </MapAreaGridShorteningData>
+    <MapAreaGridShorteningData>
+      <count>0</count>
+    </MapAreaGridShorteningData>
+    <MapAreaGridShorteningData>
+      <count>0</count>
+    </MapAreaGridShorteningData>
+    <MapAreaGridShorteningData>
+      <count>0</count>
+    </MapAreaGridShorteningData>
+    <MapAreaGridShorteningData>
+      <count>0</count>
+    </MapAreaGridShorteningData>
+    <MapAreaGridShorteningData>
+      <count>0</count>
+    </MapAreaGridShorteningData>
+    <MapAreaGridShorteningData>
+      <count>0</count>
+    </MapAreaGridShorteningData>
+    <MapAreaGridShorteningData>
+      <count>0</count>
+    </MapAreaGridShorteningData>
+  </shorteningGridCountList>
+  <grids>
+    <MapAreaGridData>
+      <index>0</index>
+      <displayType>1</displayType>
+      <type>1</type>
+      <exit />
+      <entrance />
+      <reward>
+        <rewardName>
+          <id>-1</id>
+          <str>Invalid</str>
+          <data />
+        </rewardName>
+      </reward>
+    </MapAreaGridData>
+    <MapAreaGridData>
+      <index>20</index>
+      <displayType>3</displayType>
+      <type>3</type>
+      <exit />
+      <entrance />
+      <reward>
+        <rewardName>
+          <id>10000010</id>
+          <str>Point 1000</str>
+          <data />
+        </rewardName>
+      </reward>
+    </MapAreaGridData>
+    <MapAreaGridData>
+      <index>50</index>
+      <displayType>3</displayType>
+      <type>3</type>
+      <exit />
+      <entrance />
+      <reward>
+        <rewardName>
+          <id>10000010</id>
+          <str>Point 1000</str>
+          <data />
+        </rewardName>
+      </reward>
+    </MapAreaGridData>
+    <MapAreaGridData>
+      <index>60</index>
+      <displayType>2</displayType>
+      <type>2</type>
+      <exit />
+      <entrance />
+      <reward>
+        <rewardName>
+          <id>-1</id>
+          <str>Invalid</str>
+          <data />
+        </rewardName>
+      </reward>
+    </MapAreaGridData>
+  </grids>
+</MapAreaData>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<GameTableData xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <dataName>gameTable000009</dataName>
+  <name>
+    <id>9</id>
+    <str>アドバタイズ更新日表示</str>
+    <data />
+  </name>
+  <tableType>9</tableType>
+  <records>
+    <GameTableRecordData>
+      <type>0</type>
+      <valueSet>
+        <str0>2022/10/15</str0>
+        <value0>1</value0>
+        <value1>0</value1>
+      </valueSet>
+    </GameTableRecordData>
+  </records>
+</GameTableData>

@@ -1,0 +1,314 @@
+<?xml version="1.0" encoding="utf-8"?>
+<MapData xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <dataName>map09000001</dataName>
+  <netDispPeriod>true</netDispPeriod>
+  <name>
+    <id>9000001</id>
+    <str>小林さんちのメイドラゴンＳ</str>
+    <data />
+  </name>
+  <mapType>2</mapType>
+  <mapFilterID>
+    <id>0</id>
+    <str>Collaboration</str>
+    <data>イベント</data>
+  </mapFilterID>
+  <categoryName>
+    <id>0</id>
+    <str>設定なし</str>
+    <data />
+  </categoryName>
+  <timeTableName>
+    <id>-1</id>
+    <str>Invalid</str>
+    <data />
+  </timeTableName>
+  <stopPageIndex>0</stopPageIndex>
+  <stopReleaseEventName>
+    <id>-1</id>
+    <str>Invalid</str>
+    <data />
+  </stopReleaseEventName>
+  <priority>0</priority>
+  <infos>
+    <MapDataAreaInfo>
+      <mapAreaName>
+        <id>9000032</id>
+        <str>メイドラゴンS1</str>
+        <data />
+      </mapAreaName>
+      <ddsMapName>
+        <id>90001</id>
+        <str>メイドラゴンS0001_イベント1</str>
+        <data />
+      </ddsMapName>
+      <musicName>
+        <id>2216</id>
+        <str>愛のシュプリーム！</str>
+        <data />
+      </musicName>
+      <rewardName>
+        <id>99000033</id>
+        <str>トール</str>
+        <data />
+      </rewardName>
+      <isHard>false</isHard>
+      <pageIndex>0</pageIndex>
+      <indexInPage>1</indexInPage>
+      <requiredAchievementCount>0</requiredAchievementCount>
+      <gaugeName>
+        <id>12</id>
+        <str>基本セット12</str>
+        <data />
+      </gaugeName>
+    </MapDataAreaInfo>
+    <MapDataAreaInfo>
+      <mapAreaName>
+        <id>9000033</id>
+        <str>メイドラゴンS2</str>
+        <data />
+      </mapAreaName>
+      <ddsMapName>
+        <id>90001</id>
+        <str>メイドラゴンS0001_イベント1</str>
+        <data />
+      </ddsMapName>
+      <musicName>
+        <id>-1</id>
+        <str>Invalid</str>
+        <data />
+      </musicName>
+      <rewardName>
+        <id>99000034</id>
+        <str>小林さん</str>
+        <data />
+      </rewardName>
+      <isHard>false</isHard>
+      <pageIndex>0</pageIndex>
+      <indexInPage>3</indexInPage>
+      <requiredAchievementCount>0</requiredAchievementCount>
+      <gaugeName>
+        <id>12</id>
+        <str>基本セット12</str>
+        <data />
+      </gaugeName>
+    </MapDataAreaInfo>
+    <MapDataAreaInfo>
+      <mapAreaName>
+        <id>9000034</id>
+        <str>メイドラゴンS3</str>
+        <data />
+      </mapAreaName>
+      <ddsMapName>
+        <id>90001</id>
+        <str>メイドラゴンS0001_イベント1</str>
+        <data />
+      </ddsMapName>
+      <musicName>
+        <id>-1</id>
+        <str>Invalid</str>
+        <data />
+      </musicName>
+      <rewardName>
+        <id>99000035</id>
+        <str>カンナ</str>
+        <data />
+      </rewardName>
+      <isHard>false</isHard>
+      <pageIndex>0</pageIndex>
+      <indexInPage>5</indexInPage>
+      <requiredAchievementCount>0</requiredAchievementCount>
+      <gaugeName>
+        <id>12</id>
+        <str>基本セット12</str>
+        <data />
+      </gaugeName>
+    </MapDataAreaInfo>
+    <MapDataAreaInfo>
+      <mapAreaName>
+        <id>9000035</id>
+        <str>メイドラゴンS4</str>
+        <data />
+      </mapAreaName>
+      <ddsMapName>
+        <id>90001</id>
+        <str>メイドラゴンS0001_イベント1</str>
+        <data />
+      </ddsMapName>
+      <musicName>
+        <id>-1</id>
+        <str>Invalid</str>
+        <data />
+      </musicName>
+      <rewardName>
+        <id>99000036</id>
+        <str>カンナ</str>
+        <data />
+      </rewardName>
+      <isHard>false</isHard>
+      <pageIndex>0</pageIndex>
+      <indexInPage>7</indexInPage>
+      <requiredAchievementCount>0</requiredAchievementCount>
+      <gaugeName>
+        <id>12</id>
+        <str>基本セット12</str>
+        <data />
+      </gaugeName>
+    </MapDataAreaInfo>
+    <MapDataAreaInfo>
+      <mapAreaName>
+        <id>9000036</id>
+        <str>メイドラゴンS5</str>
+        <data />
+      </mapAreaName>
+      <ddsMapName>
+        <id>90001</id>
+        <str>メイドラゴンS0001_イベント1</str>
+        <data />
+      </ddsMapName>
+      <musicName>
+        <id>-1</id>
+        <str>Invalid</str>
+        <data />
+      </musicName>
+      <rewardName>
+        <id>99000037</id>
+        <str>エルマ</str>
+        <data />
+      </rewardName>
+      <isHard>false</isHard>
+      <pageIndex>1</pageIndex>
+      <indexInPage>0</indexInPage>
+      <requiredAchievementCount>0</requiredAchievementCount>
+      <gaugeName>
+        <id>12</id>
+        <str>基本セット12</str>
+        <data />
+      </gaugeName>
+    </MapDataAreaInfo>
+    <MapDataAreaInfo>
+      <mapAreaName>
+        <id>9000037</id>
+        <str>メイドラゴンS6</str>
+        <data />
+      </mapAreaName>
+      <ddsMapName>
+        <id>90001</id>
+        <str>メイドラゴンS0001_イベント1</str>
+        <data />
+      </ddsMapName>
+      <musicName>
+        <id>-1</id>
+        <str>Invalid</str>
+        <data />
+      </musicName>
+      <rewardName>
+        <id>99000038</id>
+        <str>ルコア</str>
+        <data />
+      </rewardName>
+      <isHard>false</isHard>
+      <pageIndex>1</pageIndex>
+      <indexInPage>2</indexInPage>
+      <requiredAchievementCount>0</requiredAchievementCount>
+      <gaugeName>
+        <id>12</id>
+        <str>基本セット12</str>
+        <data />
+      </gaugeName>
+    </MapDataAreaInfo>
+    <MapDataAreaInfo>
+      <mapAreaName>
+        <id>9000038</id>
+        <str>メイドラゴンS7</str>
+        <data />
+      </mapAreaName>
+      <ddsMapName>
+        <id>90001</id>
+        <str>メイドラゴンS0001_イベント1</str>
+        <data />
+      </ddsMapName>
+      <musicName>
+        <id>-1</id>
+        <str>Invalid</str>
+        <data />
+      </musicName>
+      <rewardName>
+        <id>99000039</id>
+        <str>小林さんちのメイドラゴンＳ - ①</str>
+        <data />
+      </rewardName>
+      <isHard>false</isHard>
+      <pageIndex>1</pageIndex>
+      <indexInPage>4</indexInPage>
+      <requiredAchievementCount>1</requiredAchievementCount>
+      <gaugeName>
+        <id>12</id>
+        <str>基本セット12</str>
+        <data />
+      </gaugeName>
+    </MapDataAreaInfo>
+    <MapDataAreaInfo>
+      <mapAreaName>
+        <id>9000039</id>
+        <str>メイドラゴンS8</str>
+        <data />
+      </mapAreaName>
+      <ddsMapName>
+        <id>90001</id>
+        <str>メイドラゴンS0001_イベント1</str>
+        <data />
+      </ddsMapName>
+      <musicName>
+        <id>-1</id>
+        <str>Invalid</str>
+        <data />
+      </musicName>
+      <rewardName>
+        <id>20008030</id>
+        <str>虹限スタチュウ</str>
+        <data />
+      </rewardName>
+      <isHard>false</isHard>
+      <pageIndex>1</pageIndex>
+      <indexInPage>6</indexInPage>
+      <requiredAchievementCount>1</requiredAchievementCount>
+      <gaugeName>
+        <id>12</id>
+        <str>基本セット12</str>
+        <data />
+      </gaugeName>
+    </MapDataAreaInfo>
+    <MapDataAreaInfo>
+      <mapAreaName>
+        <id>9000040</id>
+        <str>メイドラゴンS9</str>
+        <data />
+      </mapAreaName>
+      <ddsMapName>
+        <id>90001</id>
+        <str>メイドラゴンS0001_イベント1</str>
+        <data />
+      </ddsMapName>
+      <musicName>
+        <id>-1</id>
+        <str>Invalid</str>
+        <data />
+      </musicName>
+      <rewardName>
+        <id>20008030</id>
+        <str>虹限スタチュウ</str>
+        <data />
+      </rewardName>
+      <isHard>false</isHard>
+      <pageIndex>1</pageIndex>
+      <indexInPage>8</indexInPage>
+      <requiredAchievementCount>1</requiredAchievementCount>
+      <gaugeName>
+        <id>12</id>
+        <str>基本セット12</str>
+        <data />
+      </gaugeName>
+    </MapDataAreaInfo>
+  </infos>
+</MapData>
