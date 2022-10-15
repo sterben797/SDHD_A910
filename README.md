@@ -1,12 +1,12 @@
 # SDHD Custom Option Package A910
-本数据包为SDHD 2.05专用的Option自制包,目前包括一些Event和对应的课题曲相关道具等.\
+本数据包为本人创建的SDHD 2.05专用Option自制包,目前包括一些Event和对应的课题曲相关道具等.\
 本数据包为完全公开使用,但请不要私自更改内容进行再发布.
 
 # A910 Update History
 ### v2.05.02-b - 2022.10.15
 `fix` 课题曲ID变更\
 `fix`  EV0002\
-`add`  |_课题曲ID变更后的trophy\
+`add`  课题曲ID变更后的trophy\
 `pre`  (予)旧SDBT制作的Event复活(Dohna Dohna)
 
 ### v2.05.02-a - 2022.10.13
