@@ -1,0 +1,155 @@
+<?xml version="1.0" encoding="utf-8"?>
+<MusicData xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <dataName>music4000</dataName>
+  <releaseTagName>
+    <id>13</id>
+    <str>v2 2.05.00</str>
+    <data />
+  </releaseTagName>
+  <netOpenName>
+    <id>2110</id>
+    <str>v2_05 04_1</str>
+    <data />
+  </netOpenName>
+  <disableFlag>false</disableFlag>
+  <exType>0</exType>
+  <name>
+    <id>4000</id>
+    <str>I'm so Happy</str>
+    <data />
+  </name>
+  <sortName>IMSOHAPPY</sortName>
+  <artistName>
+    <id>4000</id>
+    <str>Ryu☆</str>
+    <data />
+  </artistName>
+  <genreNames>
+    <list>
+      <StringID>
+        <id>100</id>
+        <str>官譜追加</str>
+        <data />
+      </StringID>
+    </list>
+  </genreNames>
+  <worksName>
+    <id>-1</id>
+    <str>Invalid</str>
+    <data />
+  </worksName>
+  <jaketFile>
+    <path>CHU_UI_Jacket_4000.dds</path>
+  </jaketFile>
+  <firstLock>false</firstLock>
+  <enableUltima>false</enableUltima>
+  <priority>0</priority>
+  <cueFileName>
+    <id>4000</id>
+    <str>music4000</str>
+    <data />
+  </cueFileName>
+  <worldsEndTagName>
+    <id>-1</id>
+    <str>Invalid</str>
+    <data />
+  </worldsEndTagName>
+  <starDifType>1</starDifType>
+  <stageName>
+    <id>8</id>
+    <str>レーベル 共通0008_新イエローリング</str>
+    <data />
+  </stageName>
+  <fumens>
+    <MusicFumenData>
+      <type>
+        <id>0</id>
+        <str>Basic</str>
+        <data>BASIC</data>
+      </type>
+      <enable>false</enable>
+      <file>
+        <path>4000_00.c2s</path>
+      </file>
+      <level>4</level>
+      <levelDecimal>0</levelDecimal>
+      <notesDesigner />
+      <defaultBpm>0</defaultBpm>
+    </MusicFumenData>
+    <MusicFumenData>
+      <type>
+        <id>1</id>
+        <str>Advanced</str>
+        <data>ADVANCED</data>
+      </type>
+      <enable>false</enable>
+      <file>
+        <path>4000_01.c2s</path>
+      </file>
+      <level>8</level>
+      <levelDecimal>50</levelDecimal>
+      <notesDesigner />
+      <defaultBpm>0</defaultBpm>
+    </MusicFumenData>
+    <MusicFumenData>
+      <type>
+        <id>2</id>
+        <str>Expert</str>
+        <data>EXPERT</data>
+      </type>
+      <enable>true</enable>
+      <file>
+        <path>4000_02.c2s</path>
+      </file>
+      <level>12</level>
+      <levelDecimal>50</levelDecimal>
+      <notesDesigner />
+      <defaultBpm>0</defaultBpm>
+    </MusicFumenData>
+    <MusicFumenData>
+      <type>
+        <id>3</id>
+        <str>Master</str>
+        <data>MASTER</data>
+      </type>
+      <enable>true</enable>
+      <file>
+        <path>4000_03.c2s</path>
+      </file>
+      <level>13</level>
+      <levelDecimal>80</levelDecimal>
+      <notesDesigner />
+      <defaultBpm>0</defaultBpm>
+    </MusicFumenData>
+    <MusicFumenData>
+      <type>
+        <id>4</id>
+        <str>Ultima</str>
+        <data>ULTIMA</data>
+      </type>
+      <enable>false</enable>
+      <file>
+        <path />
+      </file>
+      <level>0</level>
+      <levelDecimal>0</levelDecimal>
+      <notesDesigner />
+      <defaultBpm>0</defaultBpm>
+    </MusicFumenData>
+    <MusicFumenData>
+      <type>
+        <id>5</id>
+        <str>WorldsEnd</str>
+        <data>WORLD'S END</data>
+      </type>
+      <enable>false</enable>
+      <file>
+        <path />
+      </file>
+      <level>0</level>
+      <levelDecimal>0</levelDecimal>
+      <notesDesigner />
+      <defaultBpm>0</defaultBpm>
+    </MusicFumenData>
+  </fumens>
+</MusicData>
