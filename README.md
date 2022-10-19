@@ -3,6 +3,11 @@
 本数据包为完全公开使用,但请不要私自更改内容进行再发布.
 
 # A910 Update History
+### v2.05.03 - 2022.10.19
+`add` ULTIMA「SON OF SUN」\
+`add` ULTIMA「ロストワンの号哭」\
+`add` 乐曲「I'm so Happy」
+
 ### v2.05.02-b - 2022.10.15
 `fix` 课题曲ID变更\
 `fix`  EV0002\
