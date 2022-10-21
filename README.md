@@ -9,7 +9,7 @@
 `fix` 变更角色升级时获得的技能\
 `fix` 调整角色获得技能的等级需求\
 `fix` 乐曲「I'm so Happy」EXPERT 谱面制作者错误\
-`pre` 预定复活旧版本Event\
+`pre` 预定复活A910旧版本制作的Event\
 `note` 删除的资源会在以后复活的Event中增加回来\
 `note` Event相关资源不再默认开放,需要跑活动图解锁
 
