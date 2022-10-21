@@ -62,5 +62,10 @@
       <str />
       <data />
     </StringID>
+    <StringID>
+      <id>102</id>
+      <str />
+      <data />
+    </StringID>
   </SortList>
 </SerializeSortData>

@@ -3,6 +3,16 @@
 本数据包为完全公开使用,但请不要私自更改内容进行再发布.
 
 # A910 Update History
+
+### v2.05.04 - 2022.10.21
+`del` 资源调整,大幅削减多余素材(防止塞爆存档)
+`fix` 变更角色升级时获得的技能
+`fix` 调整角色获得技能的等级需求
+`fix` 乐曲「I'm so Happy」EXPERT 谱面制作者错误
+`pre` 预定复活旧版本Event
+`note` 删除的资源会在以后复活的Event中增加回来
+`note` Event相关资源不再默认开放,需要跑活动图解锁
+
 ### v2.05.03 - 2022.10.19
 `add` ULTIMA「SON OF SUN」\
 `add` ULTIMA「ロストワンの号哭」\
@@ -12,7 +22,6 @@
 `fix` 课题曲ID变更\
 `fix`  EV0002\
 `add`  课题曲ID变更后的trophy\
-`pre`  (予)旧SDBT制作的Event复活(Dohna Dohna)
 
 ### v2.05.02-a - 2022.10.13
 `add`  music7000 trophy(已变更)\

@@ -41,7 +41,7 @@
   <jaketFile>
     <path>CHU_UI_Jacket_2216.dds</path>
   </jaketFile>
-  <firstLock>false</firstLock>
+  <firstLock>true</firstLock>
   <enableUltima>false</enableUltima>
   <priority>0</priority>
   <cueFileName>

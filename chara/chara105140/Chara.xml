@@ -169,44 +169,12 @@
   <priority>0</priority>
   <ranks>
     <CharaRankData>
-      <index>1</index>
-      <type>1</type>
-      <rewardSkillSeed>
-        <rewardSkillSeed>
-          <id>61000055</id>
-          <str>ジャッジメント×5</str>
-          <data />
-        </rewardSkillSeed>
-      </rewardSkillSeed>
-      <text>
-        <flavorTxtFile>
-          <path />
-        </flavorTxtFile>
-      </text>
-    </CharaRankData>
-    <CharaRankData>
       <index>5</index>
       <type>1</type>
       <rewardSkillSeed>
         <rewardSkillSeed>
-          <id>61000051</id>
-          <str>ジャッジメント×1</str>
-          <data />
-        </rewardSkillSeed>
-      </rewardSkillSeed>
-      <text>
-        <flavorTxtFile>
-          <path />
-        </flavorTxtFile>
-      </text>
-    </CharaRankData>
-    <CharaRankData>
-      <index>10</index>
-      <type>1</type>
-      <rewardSkillSeed>
-        <rewardSkillSeed>
-          <id>61000055</id>
-          <str>ジャッジメント×5</str>
+          <id>61000021</id>
+          <str>ゲージブースト×1</str>
           <data />
         </rewardSkillSeed>
       </rewardSkillSeed>
@@ -223,6 +191,22 @@
         <rewardSkillSeed>
           <id>61000051</id>
           <str>ジャッジメント×1</str>
+          <data />
+        </rewardSkillSeed>
+      </rewardSkillSeed>
+      <text>
+        <flavorTxtFile>
+          <path />
+        </flavorTxtFile>
+      </text>
+    </CharaRankData>
+    <CharaRankData>
+      <index>20</index>
+      <type>1</type>
+      <rewardSkillSeed>
+        <rewardSkillSeed>
+          <id>61000071</id>
+          <str>勇気のしるし×1</str>
           <data />
         </rewardSkillSeed>
       </rewardSkillSeed>
