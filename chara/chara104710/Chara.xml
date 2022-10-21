@@ -29,7 +29,7 @@
     <str />
     <data />
   </illustratorName>
-  <defaultHave>false</defaultHave>
+  <defaultHave>true</defaultHave>
   <rareType>0</rareType>
   <normCondition>
     <conditions />
