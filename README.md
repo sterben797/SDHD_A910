@@ -4,6 +4,9 @@
 
 # A910 Update History
 
+### v2.05.04-a - 2022.10.22
+`fix` some chart bug fix (Minor update)
+
 ### v2.05.04 - 2022.10.21
 `del` 资源调整,大幅削减多余素材(防止塞爆存档)\
 `fix` 变更角色升级时获得的技能\
