@@ -4,6 +4,9 @@
 
 # A910 Update History
 
+### v2.05.04-b - 2022.10.22
+`fix` 乐曲「I'm so Happy」bug fix (Minor update)
+
 ### v2.05.04-a - 2022.10.22
 `fix` some chart bug fix (Minor update)
 
