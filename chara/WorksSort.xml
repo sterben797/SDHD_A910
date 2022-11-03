@@ -508,12 +508,12 @@
       <data />
     </StringID>
     <StringID>
-      <id>109</id>
+      <id>115</id>
       <str />
       <data />
     </StringID>
     <StringID>
-      <id>115</id>
+      <id>109</id>
       <str />
       <data />
     </StringID>
@@ -538,12 +538,57 @@
       <data />
     </StringID>
     <StringID>
+      <id>116</id>
+      <str />
+      <data />
+    </StringID>
+    <StringID>
+      <id>124</id>
+      <str />
+      <data />
+    </StringID>
+    <StringID>
+      <id>118</id>
+      <str />
+      <data />
+    </StringID>
+    <StringID>
+      <id>119</id>
+      <str />
+      <data />
+    </StringID>
+    <StringID>
+      <id>120</id>
+      <str />
+      <data />
+    </StringID>
+    <StringID>
+      <id>121</id>
+      <str />
+      <data />
+    </StringID>
+    <StringID>
+      <id>122</id>
+      <str />
+      <data />
+    </StringID>
+    <StringID>
+      <id>123</id>
+      <str />
+      <data />
+    </StringID>
+    <StringID>
       <id>1</id>
       <str />
       <data />
     </StringID>
     <StringID>
       <id>14</id>
+      <str />
+      <data />
+    </StringID>
+    <StringID>
+      <id>117</id>
       <str />
       <data />
     </StringID>
@@ -659,7 +704,7 @@
     </StringID>
     <StringID>
       <id>9926</id>
-      <str>D4DJ Groovy Mix</str>
+      <str>D4DJ</str>
       <data />
     </StringID>
     <StringID>
