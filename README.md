@@ -5,7 +5,8 @@
 # A910 Update History
 
 ### v2.05.04-c - 2022.11.03
-`fix` some bug fix (Minor update)
+`fix` some bug fix (Minor update)\
+`fix` 乐曲「愛のシュプリーム！」BASIC,ADVANCE谱面更新
 
 ### v2.05.04-b - 2022.10.27
 `fix` 乐曲「I'm so Happy」bug fix (Minor update)
