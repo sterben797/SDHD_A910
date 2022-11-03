@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <MusicData xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
-  <dataName>music4000</dataName>
+  <dataName>music2266</dataName>
   <releaseTagName>
     <id>13</id>
     <str>v2 2.05.00</str>
@@ -14,13 +14,13 @@
   <disableFlag>false</disableFlag>
   <exType>0</exType>
   <name>
-    <id>4000</id>
+    <id>2266</id>
     <str>I'm so Happy</str>
     <data />
   </name>
   <sortName>IMSOHAPPY</sortName>
   <artistName>
-    <id>4000</id>
+    <id>2266</id>
     <str>Ryu☆</str>
     <data />
   </artistName>
@@ -39,14 +39,14 @@
     <data />
   </worksName>
   <jaketFile>
-    <path>CHU_UI_Jacket_4000.dds</path>
+    <path>CHU_UI_Jacket_2266.dds</path>
   </jaketFile>
   <firstLock>false</firstLock>
   <enableUltima>false</enableUltima>
   <priority>0</priority>
   <cueFileName>
-    <id>4000</id>
-    <str>music4000</str>
+    <id>2266</id>
+    <str>music2266</str>
     <data />
   </cueFileName>
   <worldsEndTagName>
@@ -69,7 +69,7 @@
       </type>
       <enable>false</enable>
       <file>
-        <path>4000_00.c2s</path>
+        <path>2266_00.c2s</path>
       </file>
       <level>4</level>
       <levelDecimal>0</levelDecimal>
@@ -84,7 +84,7 @@
       </type>
       <enable>false</enable>
       <file>
-        <path>4000_01.c2s</path>
+        <path>2266_01.c2s</path>
       </file>
       <level>8</level>
       <levelDecimal>50</levelDecimal>
@@ -99,7 +99,7 @@
       </type>
       <enable>true</enable>
       <file>
-        <path>4000_02.c2s</path>
+        <path>2266_02.c2s</path>
       </file>
       <level>12</level>
       <levelDecimal>50</levelDecimal>
@@ -114,7 +114,7 @@
       </type>
       <enable>true</enable>
       <file>
-        <path>4000_03.c2s</path>
+        <path>2266_03.c2s</path>
       </file>
       <level>13</level>
       <levelDecimal>80</levelDecimal>

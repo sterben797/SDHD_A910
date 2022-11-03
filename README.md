@@ -4,6 +4,9 @@
 
 # A910 Update History
 
+### v2.05.04-d - 2022.11.04
+`fix` 乐曲「I'm so Happy」ID变更
+
 ### v2.05.04-c - 2022.11.03
 `fix` some bug fix (Minor update)\
 `fix` 乐曲「愛のシュプリーム！」BASIC,ADVANCE谱面更新
