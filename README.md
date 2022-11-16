@@ -4,8 +4,17 @@
 
 # A910 Update History
 
+### v2.05.05 - 2022.11.16
+`del` ULTIMA「Anemone」\
+`del` Event「小林さんちのメイドラゴンＳ」及课题曲\
+`del` 其他相关内容
+`note` 本次更新将对SDHD 2.05 Final opt leak做出相应调整
+
+### v2.05.04-e - 2022.11.15
+`fix` 乐曲「I'm so Happy」Cue ID变更
+
 ### v2.05.04-d - 2022.11.04
-`fix` 乐曲「I'm so Happy」ID变更
+`fix` 乐曲「I'm so Happy」Music ID变更
 
 ### v2.05.04-c - 2022.11.03
 `fix` some bug fix (Minor update)\
