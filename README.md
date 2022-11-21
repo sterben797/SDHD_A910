@@ -4,10 +4,15 @@
 
 # A910 Update History
 
+### v2.05.06 - 2022.11.21
+`add` ULTIMA「砂漠のハンティングガール♡」\
+`add` ULTIMA「elegante」\
+`fix` Event ID变更
+
 ### v2.05.05 - 2022.11.16
 `del` ULTIMA「Anemone」\
 `del` Event「小林さんちのメイドラゴンＳ」及课题曲\
-`del` 其他相关内容\
+`del` 其他相关内容
 `note` 本次更新将对SDHD 2.05 Final opt leak做出相应调整
 
 ### v2.05.04-e - 2022.11.15
