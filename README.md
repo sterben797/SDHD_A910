@@ -4,6 +4,10 @@
 
 # A910 Update History
 
+### v2.10.00 - 2023.02.14
+`note` とあるバージョンではこのデータが正常に使用可能です\
+`note` In some version this data can be used normally
+
 ### v2.05.06 - 2022.11.21
 `add` ULTIMA「砂漠のハンティングガール♡」\
 `add` ULTIMA「elegante」\
@@ -48,7 +52,7 @@
 ### v2.05.02-b - 2022.10.15
 `fix` 课题曲ID变更\
 `fix`  EV0002\
-`add`  课题曲ID变更后的trophy\
+`add`  课题曲ID变更后的trophy
 
 ### v2.05.02-a - 2022.10.13
 `add`  music7000 trophy(已变更)\
