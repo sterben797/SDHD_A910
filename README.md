@@ -5,7 +5,6 @@
 # A910 Update History
 
 ### v2.10.00 - 2023.02.14
-`note` とあるバージョンではこのデータが正常に使用可能です\
 `note` In some version this data can be used normally
 
 ### v2.05.06 - 2022.11.21
