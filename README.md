@@ -5,7 +5,7 @@
 # A910 Update History
 
 ### v2.10.00 - 2023.02.14
-`note` In some version this data can be used normally
+`fix` 修复了版本号过低的问题
 
 ### v2.05.06 - 2022.11.21
 `add` ULTIMA「砂漠のハンティングガール♡」\
