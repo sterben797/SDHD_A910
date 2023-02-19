@@ -1,4 +1,4 @@
-# SDHD Custom Option Package A910
+# SDHD Fanmade Option A910
 本数据包为本人创建的SDHD 2.05专用Option自制包,目前包括一些Event和对应的课题曲相关道具等.\
 本数据包为完全公开使用,但请不要私自更改内容进行再发布.
 
