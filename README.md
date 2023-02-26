@@ -5,7 +5,7 @@
 # Update History
 
 ### v2.10.00 - 2023.02.14
-`upd`  support SDHD 2.10
+`note`  支持更高版本
 
 ### v2.05.06 - 2022.11.21
 `add`  ULTIMA「砂漠のハンティングガール♡」\
