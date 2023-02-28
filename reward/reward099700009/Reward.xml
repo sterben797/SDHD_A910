@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RewardData xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <dataName>reward099700009</dataName>
+  <name>
+    <id>99700009</id>
+    <str>フレデリカ・バウマン／2nd season</str>
+    <data />
+  </name>
+  <substances>
+    <list>
+      <RewardSubstanceData>
+        <type>3</type>
+        <gamePoint>
+          <gamePoint>0</gamePoint>
+        </gamePoint>
+        <ticket>
+          <ticketName>
+            <id>-1</id>
+            <str>Invalid</str>
+            <data />
+          </ticketName>
+        </ticket>
+        <trophy>
+          <trophyName>
+            <id>-1</id>
+            <str>Invalid</str>
+            <data />
+          </trophyName>
+        </trophy>
+        <chara>
+          <charaName>
+            <id>12650</id>
+            <str>フレデリカ・バウマン／2nd season</str>
+            <data />
+          </charaName>
+        </chara>
+        <skillSeed>
+          <skillSeedName>
+            <id>-1</id>
+            <str>Invalid</str>
+            <data />
+          </skillSeedName>
+          <skillSeedCount>1</skillSeedCount>
+        </skillSeed>
+        <namePlate>
+          <namePlateName>
+            <id>-1</id>
+            <str>Invalid</str>
+            <data />
+          </namePlateName>
+        </namePlate>
+        <music>
+          <musicName>
+            <id>-1</id>
+            <str>Invalid</str>
+            <data />
+          </musicName>
+        </music>
+        <mapIcon>
+          <mapIconName>
+            <id>-1</id>
+            <str>Invalid</str>
+            <data />
+          </mapIconName>
+        </mapIcon>
+        <systemVoice>
+          <systemVoiceName>
+            <id>-1</id>
+            <str>Invalid</str>
+            <data />
+          </systemVoiceName>
+        </systemVoice>
+        <avatarAccessory>
+          <avatarAccessoryName>
+            <id>-1</id>
+            <str>Invalid</str>
+            <data />
+          </avatarAccessoryName>
+        </avatarAccessory>
+        <frame>
+          <frameName>
+            <id>-1</id>
+            <str>Invalid</str>
+            <data />
+          </frameName>
+        </frame>
+      </RewardSubstanceData>
+    </list>
+  </substances>
+</RewardData>

@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="utf-8"?>
+<DuelData xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <dataName>due1000</dataName>
+  <netOpenName>
+    <id>2010</id>
+    <str>v2_00 11_1</str>
+    <data />
+  </netOpenName>
+  <disableFlag>false</disableFlag>
+  <name>
+    <id>1000</id>
+    <str>罕見</str>
+    <data />
+  </name>
+  <explainText />
+  <rounds>
+    <DuelDataRoundInfo>
+      <charaName>
+        <id>110000</id>
+        <str>東雪蓮</str>
+        <data />
+      </charaName>
+      <charaImageName>
+        <id>110000</id>
+        <str>chara11000_00</str>
+        <data />
+      </charaImageName>
+      <charaVoiceName>
+        <id>1000</id>
+        <str>東雪蓮</str>
+        <data />
+      </charaVoiceName>
+      <backgroundName>
+        <id>4</id>
+        <str>ニコニコ0001_モニター</str>
+        <data />
+      </backgroundName>
+      <rewardName>
+        <id>99800001</id>
+        <str>誰罕見？ 罵誰罕見！！</str>
+        <data />
+      </rewardName>
+      <targetValue></targetValue>
+      <pogressType>666000</pogressType>
+      <resolution>100</resolution>
+    </DuelDataRoundInfo>
+    <DuelDataRoundInfo>
+      <charaName>
+        <id>110000</id>
+        <str>東雪蓮</str>
+        <data />
+      </charaName>
+      <charaImageName>
+        <id>110000</id>
+        <str>chara11000_00</str>
+        <data />
+      </charaImageName>
+      <charaVoiceName>
+        <id>1001</id>
+        <str>東雪蓮2</str>
+        <data />
+      </charaVoiceName>
+      <backgroundName>
+        <id>4</id>
+        <str>ニコニコ0001_モニター</str>
+        <data />
+      </backgroundName>
+      <rewardName>
+        <id>99800004</id>
+        <str>東雪蓮 - ①</str>
+        <data />
+      </rewardName>
+      <targetValue>1140000</targetValue>
+      <pogressType>1</pogressType>
+      <resolution>100</resolution>
+    </DuelDataRoundInfo>
+  </rounds>
+  <priority>0</priority>
+</DuelData>

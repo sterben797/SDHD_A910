@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="utf-8"?>
+<QuestData xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <dataName>quest00010001</dataName>
+  <netOpenName>
+    <id>2110</id>
+    <str>v2_05 04_1</str>
+    <data />
+  </netOpenName>
+  <disableFlag>false</disableFlag>
+  <name>
+    <id>10001</id>
+    <str>Re：ゼロから始める異世界生活 2nd Season</str>
+    <data />
+  </name>
+  <charaWorks>
+    <list>
+      <StringID>
+        <id>32</id>
+        <str>Re:ゼロから始める異世界生活</str>
+        <data />
+      </StringID>
+    </list>
+  </charaWorks>
+  <charas>
+    <list />
+  </charas>
+  <priority>0</priority>
+  <info>
+    <QuestRewardDataInfo>
+      <sumRank>10</sumRank>
+      <keyTrophyName>
+        <id>5048</id>
+        <str>Re:ゼロから始める異世界生活 2nd season</str>
+        <data />
+      </keyTrophyName>
+      <keyNamePlateName>
+        <id>-1</id>
+        <str>Invalid</str>
+        <data />
+      </keyNamePlateName>
+      <rewardName>
+        <list>
+          <StringID>
+            <id>99700012</id>
+            <str>Re:ゼロから始める異世界生活 2nd season</str>
+            <data />
+          </StringID>
+        </list>
+      </rewardName>
+    </QuestRewardDataInfo>
+    <QuestRewardDataInfo>
+      <sumRank>47</sumRank>
+      <keyTrophyName>
+        <id>-1</id>
+        <str>Invalid</str>
+        <data />
+      </keyTrophyName>
+      <keyNamePlateName>
+        <id>10030</id>
+        <str>Re:ゼロから始める異世界生活 2nd season 【2】</str>
+        <data />
+      </keyNamePlateName>
+      <rewardName>
+        <list>
+          <StringID>
+            <id>99700011</id>
+            <str>Re:ゼロから始める異世界生活 2nd season 【2】</str>
+            <data />
+          </StringID>
+        </list>
+      </rewardName>
+    </QuestRewardDataInfo>
+  </info>
+</QuestData>

@@ -68,18 +68,18 @@
     <rank>10</rank>
   </addImages2>
   <addImages3>
-    <changeImg>false</changeImg>
+    <changeImg>true</changeImg>
     <charaName>
-      <id>-1</id>
-      <str>Invalid</str>
+      <id>101103</id>
+      <str>緋天装甲のシェル</str>
       <data />
     </charaName>
     <image>
-      <id>-1</id>
-      <str>Invalid</str>
+      <id>101103</id>
+      <str>chara10110_03</str>
       <data />
     </image>
-    <rank>1</rank>
+    <rank>15</rank>
   </addImages3>
   <addImages4>
     <changeImg>false</changeImg>

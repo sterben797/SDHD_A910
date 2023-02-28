@@ -54,46 +54,46 @@
     <rank>5</rank>
   </addImages1>
   <addImages2>
-    <changeImg>false</changeImg>
+    <changeImg>true</changeImg>
     <charaName>
-      <id>-1</id>
-      <str>Invalid</str>
+      <id>101252</id>
+      <str>ゴア・アイコ</str>
       <data />
     </charaName>
     <image>
-      <id>-1</id>
-      <str>Invalid</str>
+    <id>101252</id>
+    <str>chara10125_02</str>
       <data />
     </image>
-    <rank>1</rank>
+    <rank>10</rank>
   </addImages2>
   <addImages3>
-    <changeImg>false</changeImg>
+    <changeImg>true</changeImg>
     <charaName>
-      <id>-1</id>
-      <str>Invalid</str>
+      <id>101253</id>
+      <str>碧海装甲のアイコ</str>
       <data />
     </charaName>
     <image>
-      <id>-1</id>
-      <str>Invalid</str>
+    <id>101253</id>
+    <str>chara10125_03</str>
       <data />
     </image>
-    <rank>1</rank>
+    <rank>15</rank>
   </addImages3>
   <addImages4>
-    <changeImg>false</changeImg>
+    <changeImg>true</changeImg>
     <charaName>
-      <id>-1</id>
-      <str>Invalid</str>
+      <id>101254</id>
+      <str>聖夜装甲のアイコ</str>
       <data />
     </charaName>
     <image>
-      <id>-1</id>
-      <str>Invalid</str>
+    <id>101254</id>
+    <str>chara10125_04</str>
       <data />
     </image>
-    <rank>1</rank>
+    <rank>20</rank>
   </addImages4>
   <addImages5>
     <changeImg>false</changeImg>

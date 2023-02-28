@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<NamePlateData xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <dataName>namePlate00009002</dataName>
+  <netOpenName>
+    <id>2100</id>
+    <str>v2_05 00_0</str>
+    <data />
+  </netOpenName>
+  <disableFlag>false</disableFlag>
+  <name>
+    <id>9002</id>
+    <str>東雪蓮 - ①</str>
+    <data />
+  </name>
+  <sortName>ノ</sortName>
+  <image>
+    <path>CHU_UI_NamePlate_00009002.dds</path>
+  </image>
+  <defaultHave>false</defaultHave>
+  <explainText>東雪蓮デュエルで入手</explainText>
+  <priority>0</priority>
+</NamePlateData>

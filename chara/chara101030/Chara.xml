@@ -43,7 +43,7 @@
     <changeImg>true</changeImg>
     <charaName>
       <id>101031</id>
-      <str>アイリス SE DiVE Ver.</str>
+      <str>御神子のアイリス</str>
       <data />
     </charaName>
     <image>
@@ -110,18 +110,18 @@
     <rank>15</rank>
   </addImages5>
   <addImages6>
-    <changeImg>false</changeImg>
+    <changeImg>true</changeImg>
     <charaName>
-      <id>-1</id>
-      <str>Invalid</str>
+      <id>101036</id>
+      <str>アイリス ダイヴアーマー</str>
       <data />
     </charaName>
     <image>
-      <id>-1</id>
-      <str>Invalid</str>
+      <id>101036</id>
+      <str>chara10103_06</str>
       <data />
     </image>
-    <rank>1</rank>
+    <rank>20</rank>
   </addImages6>
   <addImages7>
     <changeImg>false</changeImg>

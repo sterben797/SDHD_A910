@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<SystemVoiceData xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <dataName>systemVoice1000</dataName>
+  <netOpenName>
+    <id>2161</id>
+    <str>v2_05 09_2</str>
+    <data />
+  </netOpenName>
+  <disableFlag>false</disableFlag>
+  <name>
+    <id>1000</id>
+    <str>東雪蓮</str>
+    <data />
+  </name>
+  <sortName>D</sortName>
+  <cue>
+    <id>90000</id>
+    <str>systemvoice9000</str>
+    <data />
+  </cue>
+  <image>
+    <path>CHU_UI_SystemVoice_00001000.dds</path>
+  </image>
+  <defaultHave>false</defaultHave>
+  <explainText>-</explainText>
+  <priority>0</priority>
+</SystemVoiceData>

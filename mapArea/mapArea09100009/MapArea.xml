@@ -1,0 +1,133 @@
+<?xml version="1.0" encoding="utf-8"?>
+<MapAreaData xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <dataName>mapArea09100009</dataName>
+  <netOpenName>
+    <id>2142</id>
+    <str>v2_05 07_3</str>
+    <data />
+  </netOpenName>
+  <name>
+    <id>9100009</id>
+    <str>リゼロ2nd_9</str>
+    <data />
+  </name>
+  <mapBonusName>
+    <id>1000101</id>
+    <str>リゼロ2nd_1</str>
+    <data />
+  </mapBonusName>
+  <mapAreaBoostType>0</mapAreaBoostType>
+  <mapAreaBoostMultiple>10</mapAreaBoostMultiple>
+  <shorteningGridCountList>
+    <MapAreaGridShorteningData>
+      <count>0</count>
+    </MapAreaGridShorteningData>
+    <MapAreaGridShorteningData>
+      <count>0</count>
+    </MapAreaGridShorteningData>
+    <MapAreaGridShorteningData>
+      <count>0</count>
+    </MapAreaGridShorteningData>
+    <MapAreaGridShorteningData>
+      <count>0</count>
+    </MapAreaGridShorteningData>
+    <MapAreaGridShorteningData>
+      <count>0</count>
+    </MapAreaGridShorteningData>
+    <MapAreaGridShorteningData>
+      <count>0</count>
+    </MapAreaGridShorteningData>
+    <MapAreaGridShorteningData>
+      <count>0</count>
+    </MapAreaGridShorteningData>
+    <MapAreaGridShorteningData>
+      <count>0</count>
+    </MapAreaGridShorteningData>
+  </shorteningGridCountList>
+  <grids>
+    <MapAreaGridData>
+      <index>0</index>
+      <displayType>1</displayType>
+      <type>1</type>
+      <exit />
+      <entrance />
+      <reward>
+        <rewardName>
+          <id>-1</id>
+          <str>Invalid</str>
+          <data />
+        </rewardName>
+      </reward>
+    </MapAreaGridData>
+    <MapAreaGridData>
+      <index>5</index>
+      <displayType>3</displayType>
+      <type>3</type>
+      <exit />
+      <entrance />
+      <reward>
+        <rewardName>
+          <id>10000010</id>
+          <str>Point 1000</str>
+          <data />
+        </rewardName>
+      </reward>
+    </MapAreaGridData>
+    <MapAreaGridData>
+      <index>15</index>
+      <displayType>3</displayType>
+      <type>3</type>
+      <exit />
+      <entrance />
+      <reward>
+        <rewardName>
+          <id>10000010</id>
+          <str>Point 1000</str>
+          <data />
+        </rewardName>
+      </reward>
+    </MapAreaGridData>
+    <MapAreaGridData>
+      <index>25</index>
+      <displayType>3</displayType>
+      <type>3</type>
+      <exit />
+      <entrance />
+      <reward>
+        <rewardName>
+          <id>10000010</id>
+          <str>Point 1000</str>
+          <data />
+        </rewardName>
+      </reward>
+    </MapAreaGridData>
+    <MapAreaGridData>
+      <index>35</index>
+      <displayType>3</displayType>
+      <type>3</type>
+      <exit />
+      <entrance />
+      <reward>
+        <rewardName>
+          <id>10000010</id>
+          <str>Point 1000</str>
+          <data />
+        </rewardName>
+      </reward>
+    </MapAreaGridData>
+    <MapAreaGridData>
+      <index>45</index>
+      <displayType>2</displayType>
+      <type>2</type>
+      <exit />
+      <entrance />
+      <reward>
+        <rewardName>
+          <id>-1</id>
+          <str>Invalid</str>
+          <data />
+        </rewardName>
+      </reward>
+    </MapAreaGridData>
+  </grids>
+</MapAreaData>

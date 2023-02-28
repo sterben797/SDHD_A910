@@ -891,7 +891,7 @@
       </rewardName>
       <isHard>false</isHard>
       <pageIndex>3</pageIndex>
-      <indexInPage>3</indexInPage>
+      <indexInPage>1</indexInPage>
       <requiredAchievementCount>0</requiredAchievementCount>
       <gaugeName>
         <id>12</id>
@@ -922,7 +922,69 @@
       </rewardName>
       <isHard>false</isHard>
       <pageIndex>3</pageIndex>
+      <indexInPage>3</indexInPage>
+      <requiredAchievementCount>0</requiredAchievementCount>
+      <gaugeName>
+        <id>12</id>
+        <str>基本セット12</str>
+        <data />
+      </gaugeName>
+    </MapDataAreaInfo>
+    <MapDataAreaInfo>
+      <mapAreaName>
+        <id>9000032</id>
+        <str>ロックマン33</str>
+        <data />
+      </mapAreaName>
+      <ddsMapName>
+        <id>90000</id>
+        <str>ロックマン0001_イベント1</str>
+        <data />
+      </ddsMapName>
+      <musicName>
+        <id>-1</id>
+        <str>Invalid</str>
+        <data />
+      </musicName>
+      <rewardName>
+        <id>99000033</id>
+        <str>ナナ</str>
+        <data />
+      </rewardName>
+      <isHard>false</isHard>
+      <pageIndex>3</pageIndex>
       <indexInPage>5</indexInPage>
+      <requiredAchievementCount>0</requiredAchievementCount>
+      <gaugeName>
+        <id>12</id>
+        <str>基本セット12</str>
+        <data />
+      </gaugeName>
+    </MapDataAreaInfo>
+    <MapDataAreaInfo>
+      <mapAreaName>
+        <id>9000033</id>
+        <str>ロックマン34</str>
+        <data />
+      </mapAreaName>
+      <ddsMapName>
+        <id>90000</id>
+        <str>ロックマン0001_イベント1</str>
+        <data />
+      </ddsMapName>
+      <musicName>
+        <id>-1</id>
+        <str>Invalid</str>
+        <data />
+      </musicName>
+      <rewardName>
+        <id>99000034</id>
+        <str>エラトネール</str>
+        <data />
+      </rewardName>
+      <isHard>false</isHard>
+      <pageIndex>3</pageIndex>
+      <indexInPage>7</indexInPage>
       <requiredAchievementCount>0</requiredAchievementCount>
       <gaugeName>
         <id>12</id>

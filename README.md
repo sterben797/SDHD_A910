@@ -4,8 +4,16 @@
 
 # Update History
 
+### v2.10.01 - 2023.02.28
+`add`  東雪蓮 / 昊京 Duel
+`add`  Event「Re:ゼロから始める異世界生活」复活
+`add`  Event「ロックマン X DiVE」MAP追加
+`add`  企鹅服装「東雪蓮」
+`add`  企鹅服装「湊あくあ」
+`fix`  some issue fix
+
 ### v2.10.00 - 2023.02.14
-`note`  支持更高版本
+`note`  修复版本号过低
 
 ### v2.05.06 - 2022.11.21
 `add`  ULTIMA「砂漠のハンティングガール♡」\

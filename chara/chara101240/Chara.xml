@@ -43,7 +43,7 @@
     <changeImg>true</changeImg>
     <charaName>
       <id>101241</id>
-      <str>リコ(プレイアブル)</str>
+      <str>深紅灯のリコ</str>
       <data />
     </charaName>
     <image>
@@ -57,7 +57,7 @@
     <changeImg>true</changeImg>
     <charaName>
       <id>101242</id>
-      <str>深紅灯のリコ</str>
+      <str>リコ・スターライト</str>
       <data />
     </charaName>
     <image>
@@ -71,7 +71,7 @@
     <changeImg>true</changeImg>
     <charaName>
       <id>101243</id>
-      <str>リコ・スターライト</str>
+      <str>リコ ダイヴアーマー</str>
       <data />
     </charaName>
     <image>
@@ -82,18 +82,18 @@
     <rank>15</rank>
   </addImages3>
   <addImages4>
-    <changeImg>false</changeImg>
+    <changeImg>true</changeImg>
     <charaName>
-      <id>-1</id>
-      <str>Invalid</str>
+      <id>101244</id>
+      <str>慶典萬謝のリコ</str>
       <data />
     </charaName>
     <image>
-      <id>-1</id>
-      <str>Invalid</str>
+      <id>101244</id>
+      <str>chara10124_04</str>
       <data />
     </image>
-    <rank>1</rank>
+    <rank>15</rank>
   </addImages4>
   <addImages5>
     <changeImg>false</changeImg>

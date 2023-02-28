@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<CueFileData xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <dataName>cueFile090001</dataName>
+  <name>
+    <id>90001</id>
+    <str>systemvoice9001</str>
+    <data />
+  </name>
+  <acbFile>
+    <path>systemvoice9001.acb</path>
+  </acbFile>
+  <awbFile>
+    <path>systemvoice9001.awb</path>
+  </awbFile>
+</CueFileData>

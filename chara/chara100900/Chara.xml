@@ -1,0 +1,267 @@
+<?xml version="1.0" encoding="utf-8"?>
+<CharaData xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <dataName>chara100900</dataName>
+  <releaseTagName>
+    <id>13</id>
+    <str>v2 2.05.00</str>
+    <data />
+  </releaseTagName>
+  <netOpenName>
+    <id>2110</id>
+    <str>v2_05 04_1</str>
+    <data />
+  </netOpenName>
+  <disableFlag>false</disableFlag>
+  <name>
+    <id>100900</id>
+    <str>アーミヤ</str>
+    <data />
+  </name>
+  <explainText />
+  <sortName>アーミヤ</sortName>
+  <works>
+    <id>9910</id>
+    <str>アークナイツ</str>
+    <data />
+  </works>
+  <illustratorName>
+    <id>50</id>
+    <str />
+    <data />
+  </illustratorName>
+  <defaultHave>true</defaultHave>
+  <rareType>0</rareType>
+  <normCondition>
+    <conditions />
+  </normCondition>
+  <defaultImages>
+    <id>100900</id>
+    <str>chara10090_00</str>
+    <data />
+  </defaultImages>
+  <addImages1>
+    <changeImg>true</changeImg>
+    <charaName>
+      <id>100901</id>
+      <str>アーミヤ／昇進1段階</str>
+      <data />
+    </charaName>
+    <image>
+      <id>100901</id>
+      <str>chara10010_01</str>
+      <data />
+    </image>
+    <rank>5</rank>
+  </addImages1>
+  <addImages2>
+    <changeImg>true</changeImg>
+    <charaName>
+      <id>100902</id>
+      <str>アーミヤ／昇進2段階</str>
+      <data />
+    </charaName>
+    <image>
+      <id>100902</id>
+      <str>chara10090_02</str>
+      <data />
+    </image>
+    <rank>10</rank>
+  </addImages2>
+  <addImages3>
+    <changeImg>false</changeImg>
+    <charaName>
+      <id>-1</id>
+      <str>Invalid</str>
+      <data />
+    </charaName>
+    <image>
+      <id>-1</id>
+      <str>Invalid</str>
+      <data />
+    </image>
+    <rank>1</rank>
+  </addImages3>
+  <addImages4>
+    <changeImg>false</changeImg>
+    <charaName>
+      <id>-1</id>
+      <str>Invalid</str>
+      <data />
+    </charaName>
+    <image>
+      <id>-1</id>
+      <str>Invalid</str>
+      <data />
+    </image>
+    <rank>1</rank>
+  </addImages4>
+  <addImages5>
+    <changeImg>false</changeImg>
+    <charaName>
+      <id>-1</id>
+      <str>Invalid</str>
+      <data />
+    </charaName>
+    <image>
+      <id>-1</id>
+      <str>Invalid</str>
+      <data />
+    </image>
+    <rank>1</rank>
+  </addImages5>
+  <addImages6>
+    <changeImg>false</changeImg>
+    <charaName>
+      <id>-1</id>
+      <str>Invalid</str>
+      <data />
+    </charaName>
+    <image>
+      <id>-1</id>
+      <str>Invalid</str>
+      <data />
+    </image>
+    <rank>1</rank>
+  </addImages6>
+  <addImages7>
+    <changeImg>false</changeImg>
+    <charaName>
+      <id>-1</id>
+      <str>Invalid</str>
+      <data />
+    </charaName>
+    <image>
+      <id>-1</id>
+      <str>Invalid</str>
+      <data />
+    </image>
+    <rank>1</rank>
+  </addImages7>
+  <addImages8>
+    <changeImg>false</changeImg>
+    <charaName>
+      <id>-1</id>
+      <str>Invalid</str>
+      <data />
+    </charaName>
+    <image>
+      <id>-1</id>
+      <str>Invalid</str>
+      <data />
+    </image>
+    <rank>1</rank>
+  </addImages8>
+  <addImages9>
+    <changeImg>false</changeImg>
+    <charaName>
+      <id>-1</id>
+      <str>Invalid</str>
+      <data />
+    </charaName>
+    <image>
+      <id>-1</id>
+      <str>Invalid</str>
+      <data />
+    </image>
+    <rank>1</rank>
+  </addImages9>
+  <priority>0</priority>
+  <ranks>
+    <CharaRankData>
+      <index>5</index>
+      <type>1</type>
+      <rewardSkillSeed>
+        <rewardSkillSeed>
+          <id>61000021</id>
+          <str>ゲージブースト×1</str>
+          <data />
+        </rewardSkillSeed>
+      </rewardSkillSeed>
+      <text>
+        <flavorTxtFile>
+          <path />
+        </flavorTxtFile>
+      </text>
+    </CharaRankData>
+    <CharaRankData>
+      <index>15</index>
+      <type>1</type>
+      <rewardSkillSeed>
+        <rewardSkillSeed>
+          <id>61000051</id>
+          <str>ジャッジメント×1</str>
+          <data />
+        </rewardSkillSeed>
+      </rewardSkillSeed>
+      <text>
+        <flavorTxtFile>
+          <path />
+        </flavorTxtFile>
+      </text>
+    </CharaRankData>
+    <CharaRankData>
+      <index>20</index>
+      <type>1</type>
+      <rewardSkillSeed>
+        <rewardSkillSeed>
+          <id>61000071</id>
+          <str>勇気のしるし×1</str>
+          <data />
+        </rewardSkillSeed>
+      </rewardSkillSeed>
+      <text>
+        <flavorTxtFile>
+          <path />
+        </flavorTxtFile>
+      </text>
+    </CharaRankData>
+    <CharaRankData>
+      <index>25</index>
+      <type>1</type>
+      <rewardSkillSeed>
+        <rewardSkillSeed>
+          <id>61000101</id>
+          <str>限界突破の証×1</str>
+          <data />
+        </rewardSkillSeed>
+      </rewardSkillSeed>
+      <text>
+        <flavorTxtFile>
+          <path />
+        </flavorTxtFile>
+      </text>
+    </CharaRankData>
+    <CharaRankData>
+      <index>50</index>
+      <type>1</type>
+      <rewardSkillSeed>
+        <rewardSkillSeed>
+          <id>61000111</id>
+          <str>真・限界突破の証×1</str>
+          <data />
+        </rewardSkillSeed>
+      </rewardSkillSeed>
+      <text>
+        <flavorTxtFile>
+          <path />
+        </flavorTxtFile>
+      </text>
+    </CharaRankData>
+    <CharaRankData>
+      <index>100</index>
+      <type>1</type>
+      <rewardSkillSeed>
+        <rewardSkillSeed>
+          <id>61000121</id>
+          <str>絆・限界突破の証×1</str>
+          <data />
+        </rewardSkillSeed>
+      </rewardSkillSeed>
+      <text>
+        <flavorTxtFile>
+          <path />
+        </flavorTxtFile>
+      </text>
+    </CharaRankData>
+  </ranks>
+</CharaData>

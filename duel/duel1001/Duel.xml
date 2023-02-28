@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8"?>
+<DuelData xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <dataName>duel001</dataName>
+  <netOpenName>
+    <id>2010</id>
+    <str>v2_00 11_1</str>
+    <data />
+  </netOpenName>
+  <disableFlag>false</disableFlag>
+  <name>
+    <id>1001</id>
+    <str>答辯</str>
+    <data />
+  </name>
+  <explainText />
+  <rounds>
+    <DuelDataRoundInfo>
+      <charaName>
+        <id>110010</id>
+        <str>昊京</str>
+        <data />
+      </charaName>
+      <charaImageName>
+        <id>110010</id>
+        <str>chara11001_00</str>
+        <data />
+      </charaImageName>
+      <charaVoiceName>
+        <id>1002</id>
+        <str>昊京</str>
+        <data />
+      </charaVoiceName>
+      <backgroundName>
+        <id>4</id>
+        <str>ニコニコ0001_モニター</str>
+        <data />
+      </backgroundName>
+      <rewardName>
+        <id>99800002</id>
+        <str>任何理科終将縄之以法</str>
+        <data />
+      </rewardName>
+      <targetValue>1145140</targetValue>
+      <pogressType>1</pogressType>
+      <resolution>100</resolution>
+    </DuelDataRoundInfo>
+  </rounds>
+  <priority>0</priority>
+</DuelData>

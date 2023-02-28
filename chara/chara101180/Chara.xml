@@ -82,18 +82,18 @@
     <rank>15</rank>
   </addImages3>
   <addImages4>
-    <changeImg>false</changeImg>
+    <changeImg>true</changeImg>
     <charaName>
-      <id>-1</id>
-      <str>Invalid</str>
+      <id>101184</id>
+      <str>フォルテ＆ゴスペル</str>
       <data />
     </charaName>
     <image>
-      <id>-1</id>
-      <str>Invalid</str>
+      <id>101184</id>
+      <str>chara10118_04</str>
       <data />
     </image>
-    <rank>1</rank>
+    <rank>20</rank>
   </addImages4>
   <addImages5>
     <changeImg>false</changeImg>

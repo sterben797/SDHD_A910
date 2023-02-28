@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<AvatarAccessoryData xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <dataName>avatarAccessory09299998</dataName>
+  <netOpenName>
+    <id>2100</id>
+    <str>v2_05 00_0</str>
+    <data />
+  </netOpenName>
+  <disableFlag>false</disableFlag>
+  <name>
+    <id>9299998</id>
+    <str>CPU02</str>
+    <data />
+  </name>
+  <sortName>C</sortName>
+  <category>2</category>
+  <image>
+    <path>CHU_UI_Avatar_Icon_09299998.dds</path>
+  </image>
+  <texture>
+    <path>CHU_UI_Avatar_Tex_09299998.dds</path>
+  </texture>
+  <layerIndex>0</layerIndex>
+  <defaultHave>false</defaultHave>
+  <explainText>-</explainText>
+  <priority>0</priority>
+</AvatarAccessoryData>

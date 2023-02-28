@@ -1,0 +1,163 @@
+<?xml version="1.0" encoding="utf-8"?>
+<MapBonusData xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <dataName>mapBonus01000103</dataName>
+  <name>
+    <id>1000103</id>
+    <str>リゼロ2nd_3</str>
+    <data />
+  </name>
+  <substances>
+    <list>
+      <MapBonusSubstanceData>
+        <type>0</type>
+        <chara>
+          <point>2</point>
+          <charaName>
+            <id>13200</id>
+            <str>ナージャ・ベルリオーズ／祈りの海にて</str>
+            <data />
+          </charaName>
+        </chara>
+        <charaWorks>
+          <point>2</point>
+          <charaWorksName>
+            <id>-1</id>
+            <str>Invalid</str>
+            <data />
+          </charaWorksName>
+        </charaWorks>
+        <skill>
+          <point>1</point>
+          <skillName>
+            <id>-1</id>
+            <str>Invalid</str>
+            <data />
+          </skillName>
+        </skill>
+        <skillCategory>
+          <point>1</point>
+          <skillCategory>
+            <id>-1</id>
+            <str>Invalid</str>
+            <data />
+          </skillCategory>
+        </skillCategory>
+        <music>
+          <point>1</point>
+          <musicName>
+            <id>-1</id>
+            <str>Invalid</str>
+            <data />
+          </musicName>
+        </music>
+        <musicGenre>
+          <point>1</point>
+          <genreName>
+            <id>-1</id>
+            <str>Invalid</str>
+            <data />
+          </genreName>
+        </musicGenre>
+        <musicWorks>
+          <point>1</point>
+          <worksName>
+            <id>-1</id>
+            <str>Invalid</str>
+            <data />
+          </worksName>
+        </musicWorks>
+        <musicDif>
+          <point>1</point>
+          <musicDif>
+            <id>-1</id>
+            <str>Invalid</str>
+            <data />
+          </musicDif>
+        </musicDif>
+        <musicLv>
+          <point>1</point>
+          <filterLv>
+            <id>-1</id>
+            <str>Invalid</str>
+            <data />
+          </filterLv>
+        </musicLv>
+      </MapBonusSubstanceData>
+      <MapBonusSubstanceData>
+        <type>1</type>
+        <chara>
+          <point>1</point>
+          <charaName>
+            <id>-1</id>
+            <str>Invalid</str>
+            <data />
+          </charaName>
+        </chara>
+        <charaWorks>
+          <point>1</point>
+          <charaWorksName>
+    <id>9990</id>
+    <str>カードメイカー</str>
+            <data />
+          </charaWorksName>
+        </charaWorks>
+        <skill>
+          <point>1</point>
+          <skillName>
+            <id>-1</id>
+            <str>Invalid</str>
+            <data />
+          </skillName>
+        </skill>
+        <skillCategory>
+          <point>1</point>
+          <skillCategory>
+            <id>-1</id>
+            <str>Invalid</str>
+            <data />
+          </skillCategory>
+        </skillCategory>
+        <music>
+          <point>1</point>
+          <musicName>
+            <id>-1</id>
+            <str>Invalid</str>
+            <data />
+          </musicName>
+        </music>
+        <musicGenre>
+          <point>1</point>
+          <genreName>
+            <id>-1</id>
+            <str>Invalid</str>
+            <data />
+          </genreName>
+        </musicGenre>
+        <musicWorks>
+          <point>1</point>
+          <worksName>
+            <id>-1</id>
+            <str>Invalid</str>
+            <data />
+          </worksName>
+        </musicWorks>
+        <musicDif>
+          <point>1</point>
+          <musicDif>
+            <id>-1</id>
+            <str>Invalid</str>
+            <data />
+          </musicDif>
+        </musicDif>
+        <musicLv>
+          <point>1</point>
+          <filterLv>
+            <id>-1</id>
+            <str>Invalid</str>
+            <data />
+          </filterLv>
+        </musicLv>
+      </MapBonusSubstanceData>
+    </list>
+  </substances>
+</MapBonusData>

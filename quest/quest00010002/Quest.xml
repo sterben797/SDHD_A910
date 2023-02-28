@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8"?>
+<QuestData xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <dataName>quest00010002</dataName>
+  <netOpenName>
+    <id>2020</id>
+    <str>v2_00 12_1</str>
+    <data />
+  </netOpenName>
+  <disableFlag>false</disableFlag>
+  <name>
+    <id>10002</id>
+    <str>東雪蓮</str>
+    <data />
+  </name>
+  <charaWorks>
+    <list>
+      <StringID>
+        <id>9997</id>
+        <str>総合キャラ</str>
+        <data />
+      </StringID>
+    </list>
+  </charaWorks>
+  <charas>
+    <list />
+  </charas>
+  <priority>0</priority>
+  <info>
+    <QuestRewardDataInfo>
+      <sumRank>16</sumRank>
+      <keyTrophyName>
+        <id>12002</id>
+        <str>別他媽再当管人痴垃！</str>
+        <data />
+      </keyTrophyName>
+      <keyNamePlateName>
+        <id>-1</id>
+        <str>Invalid</str>
+        <data />
+      </keyNamePlateName>
+      <rewardName>
+        <list>
+          <StringID>
+            <id>99800003</id>
+            <str>別他媽再当管人痴垃！</str>
+            <data />
+          </StringID>
+        </list>
+      </rewardName>
+    </QuestRewardDataInfo>
+  </info>
+</QuestData>
