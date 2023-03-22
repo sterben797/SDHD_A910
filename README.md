@@ -4,6 +4,9 @@
 
 # Update History
 
+### v2.10.01a - 2023.03.21
+`text` A910 v2.10 正式版 支持CHUNITHM SUN
+
 ### v2.10.01 - 2023.02.28
 `add`  東雪蓮 / 昊京 Duel\
 `add`  Event「Re:ゼロから始める異世界生活」复活\
