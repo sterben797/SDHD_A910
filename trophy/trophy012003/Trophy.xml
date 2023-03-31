@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TrophyData xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <dataName>trophy012003</dataName>
+  <netOpenName>
+    <id>2020</id>
+    <str>v2_00 12_1</str>
+    <data />
+  </netOpenName>
+  <disableFlag>false</disableFlag>
+  <name>
+    <id>12003</id>
+    <str>嘉心糖</str>
+    <data />
+  </name>
+  <explainText>A-SOULデュエルでクリア</explainText>
+  <defaultHave>false</defaultHave>
+  <rareType>7</rareType>
+  <normCondition>
+    <conditions />
+  </normCondition>
+  <priority>0</priority>
+</TrophyData>

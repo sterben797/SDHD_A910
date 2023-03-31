@@ -36,8 +36,8 @@
         <data />
       </backgroundName>
       <rewardName>
-        <id>20008010</id>
-        <str>ショウニスタチュウ</str>
+        <id>20008030</id>
+        <str>虹限スタチュウ</str>
         <data />
       </rewardName>
       <targetValue>177777</targetValue>
@@ -66,8 +66,8 @@
         <data />
       </backgroundName>
       <rewardName>
-        <id>20008010</id>
-        <str>ショウニスタチュウ</str>
+        <id>99800010</id>
+        <str>嘉心糖</str>
         <data />
       </rewardName>
       <targetValue>777777</targetValue>
@@ -96,8 +96,8 @@
         <data />
       </backgroundName>
       <rewardName>
-        <id>20008010</id>
-        <str>ショウニスタチュウ</str>
+        <id>99800011</id>
+        <str>嘉然</str>
         <data />
       </rewardName>
       <targetValue>2477777</targetValue>

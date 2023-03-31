@@ -12,14 +12,14 @@
     <str>嘉然</str>
     <data />
   </name>
-  <sortName>JIARAN</sortName>
+  <sortName>J</sortName>
   <cue>
     <id>90003</id>
     <str>systemvoice9003</str>
     <data />
   </cue>
   <image>
-    <path>-</path>
+    <path>CHU_UI_SystemVoice_00001003.dds</path>
   </image>
   <defaultHave>false</defaultHave>
   <explainText>-</explainText>

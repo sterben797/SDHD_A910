@@ -3,6 +3,11 @@
   <dataName>duel</dataName>
   <SortList>
     <StringID>
+      <id>1002</id>
+      <str />
+      <data />
+    </StringID>
+    <StringID>
       <id>1001</id>
       <str />
       <data />
