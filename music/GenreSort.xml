@@ -59,12 +59,12 @@
     </StringID>
     <StringID>
       <id>100</id>
-      <str />
+      <str>官譜追加</str>
       <data />
     </StringID>
     <StringID>
-      <id>102</id>
-      <str />
+      <id>1000</id>
+      <str>自制譜</str>
       <data />
     </StringID>
   </SortList>

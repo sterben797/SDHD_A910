@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<CharaWorksData xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <dataName>charaWorks009925</dataName>
+  <releaseTagName>
+    <id>7</id>
+    <str>v1 1.35.00</str>
+    <data />
+  </releaseTagName>
+  <netOpenName>
+    <id>2200</id>
+    <str>v2_10 00_0</str>
+    <data />
+  </netOpenName>
+  <name>
+    <id>9925</id>
+    <str>ドーナドーナ</str>
+    <data />
+  </name>
+  <sortName>トーナトーナ</sortName>
+  <priority>0</priority>
+  <ranks />
+</CharaWorksData>

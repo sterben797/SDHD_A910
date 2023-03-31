@@ -891,7 +891,7 @@
       </rewardName>
       <isHard>false</isHard>
       <pageIndex>3</pageIndex>
-      <indexInPage>1</indexInPage>
+      <indexInPage>0</indexInPage>
       <requiredAchievementCount>0</requiredAchievementCount>
       <gaugeName>
         <id>12</id>
@@ -922,7 +922,7 @@
       </rewardName>
       <isHard>false</isHard>
       <pageIndex>3</pageIndex>
-      <indexInPage>3</indexInPage>
+      <indexInPage>1</indexInPage>
       <requiredAchievementCount>0</requiredAchievementCount>
       <gaugeName>
         <id>12</id>
@@ -953,7 +953,7 @@
       </rewardName>
       <isHard>false</isHard>
       <pageIndex>3</pageIndex>
-      <indexInPage>5</indexInPage>
+      <indexInPage>2</indexInPage>
       <requiredAchievementCount>0</requiredAchievementCount>
       <gaugeName>
         <id>12</id>
@@ -984,7 +984,7 @@
       </rewardName>
       <isHard>false</isHard>
       <pageIndex>3</pageIndex>
-      <indexInPage>7</indexInPage>
+      <indexInPage>3</indexInPage>
       <requiredAchievementCount>0</requiredAchievementCount>
       <gaugeName>
         <id>12</id>
@@ -1015,7 +1015,7 @@
       </rewardName>
       <isHard>false</isHard>
       <pageIndex>4</pageIndex>
-      <indexInPage>3</indexInPage>
+      <indexInPage>0</indexInPage>
       <requiredAchievementCount>0</requiredAchievementCount>
       <gaugeName>
         <id>14</id>
@@ -1046,7 +1046,7 @@
       </rewardName>
       <isHard>false</isHard>
       <pageIndex>4</pageIndex>
-      <indexInPage>5</indexInPage>
+      <indexInPage>7</indexInPage>
       <requiredAchievementCount>0</requiredAchievementCount>
       <gaugeName>
         <id>14</id>

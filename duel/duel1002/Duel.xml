@@ -1,0 +1,109 @@
+<?xml version="1.0" encoding="utf-8"?>
+<DuelData xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <dataName>duel1002</dataName>
+  <netOpenName>
+    <id>2141</id>
+    <str>v2_05 07_2</str>
+    <data />
+  </netOpenName>
+  <disableFlag>false</disableFlag>
+  <name>
+    <id>1002</id>
+    <str>我超然</str>
+    <data />
+  </name>
+  <explainText />
+  <rounds>
+    <DuelDataRoundInfo>
+      <charaName>
+        <id>105020</id>
+        <str>嘉然</str>
+        <data />
+      </charaName>
+      <charaImageName>
+        <id>105020</id>
+        <str>chara10502_00</str>
+        <data />
+      </charaImageName>
+      <charaVoiceName>
+        <id>1003</id>
+        <str>嘉然</str>
+        <data />
+      </charaVoiceName>
+      <backgroundName>
+        <id>91003</id>
+        <str>场景</str>
+        <data />
+      </backgroundName>
+      <rewardName>
+        <id>20008010</id>
+        <str>ショウニスタチュウ</str>
+        <data />
+      </rewardName>
+      <targetValue>177777</targetValue>
+      <pogressType>0</pogressType>
+      <resolution>100</resolution>
+    </DuelDataRoundInfo>
+    <DuelDataRoundInfo>
+      <charaName>
+        <id>105020</id>
+        <str>嘉然</str>
+        <data />
+      </charaName>
+      <charaImageName>
+        <id>105020</id>
+        <str>chara10502_00</str>
+        <data />
+      </charaImageName>
+      <charaVoiceName>
+        <id>1003</id>
+        <str>嘉然</str>
+        <data />
+      </charaVoiceName>
+      <backgroundName>
+        <id>91003</id>
+        <str>场景</str>
+        <data />
+      </backgroundName>
+      <rewardName>
+        <id>20008010</id>
+        <str>ショウニスタチュウ</str>
+        <data />
+      </rewardName>
+      <targetValue>777777</targetValue>
+      <pogressType>0</pogressType>
+      <resolution>100</resolution>
+    </DuelDataRoundInfo>
+    <DuelDataRoundInfo>
+      <charaName>
+        <id>105020</id>
+        <str>嘉然</str>
+        <data />
+      </charaName>
+      <charaImageName>
+        <id>105020</id>
+        <str>chara10502_00</str>
+        <data />
+      </charaImageName>
+      <charaVoiceName>
+        <id>1003</id>
+        <str>嘉然</str>
+        <data />
+      </charaVoiceName>
+      <backgroundName>
+        <id>91003</id>
+        <str>场景</str>
+        <data />
+      </backgroundName>
+      <rewardName>
+        <id>20008010</id>
+        <str>ショウニスタチュウ</str>
+        <data />
+      </rewardName>
+      <targetValue>2477777</targetValue>
+      <pogressType>0</pogressType>
+      <resolution>100</resolution>
+    </DuelDataRoundInfo>
+  </rounds>
+  <priority>0</priority>
+</DuelData>

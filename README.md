@@ -4,6 +4,11 @@
 
 # Update History
 
+### v2.10.02 - 2023.03.21
+`add`  A-SOUL EVENT
+`add`  A-SOUL DUEL
+`fix`  一些问题修正
+
 ### v2.10.01a - 2023.03.21
 `text` A910 v2.10 正式版 支持CHUNITHM SUN
 

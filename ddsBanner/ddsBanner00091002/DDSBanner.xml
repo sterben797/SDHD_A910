@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<DDSBannerData xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <dataName>ddsBanner00091002</dataName>
+  <formatVersion>10000</formatVersion>
+  <resourceVersion>
+    <id>0</id>
+    <str>10000</str>
+    <data />
+  </resourceVersion>
+  <name>
+    <id>91002</id>
+    <str>A-SOUL_イベント1</str>
+    <data />
+  </name>
+  <ddsFile>
+    <path>CHU_banner_event_as0001.dds</path>
+  </ddsFile>
+</DDSBannerData>
