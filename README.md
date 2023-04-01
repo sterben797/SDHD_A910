@@ -4,10 +4,11 @@
 
 # Update History
 
-### v2.10.02a - 2023.04.01
+### v2.10.02b - 2023.04.01
 `add`  「おにまい」 角色\
 `add`  A-SOUL EVENT\
 `add`  A-SOUL DUEL\
+`fix`  Duel 排序
 `fix`  一些问题修正
 
 ### v2.10.01a - 2023.03.21
