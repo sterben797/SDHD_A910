@@ -4,6 +4,10 @@
 
 # Update History
 
+### v2.10.03 - 2023.04.06
+`del`  所有抄谱
+`note` 配合SDHD 2.10 option做出资源调整
+
 ### v2.10.02b - 2023.04.01
 `add`  「おにまい」 角色\
 `add`  A-SOUL EVENT\
