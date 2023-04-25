@@ -135,35 +135,35 @@
       <str>chara10100_07</str>
       <data />
     </image>
-    <rank>25</rank>
+    <rank>23</rank>
   </addImages7>
   <addImages8>
-    <changeImg>false</changeImg>
+    <changeImg>true</changeImg>
     <charaName>
-      <id>-1</id>
-      <str>Invalid</str>
+      <id>101008</id>
+      <str>Xネクストダイヴアーマー</str>
       <data />
     </charaName>
     <image>
-      <id>-1</id>
-      <str>Invalid</str>
+      <id>101008</id>
+      <str>chara10100_08</str>
       <data />
     </image>
-    <rank>1</rank>
+    <rank>25</rank>
   </addImages8>
   <addImages9>
-    <changeImg>false</changeImg>
+    <changeImg>true</changeImg>
     <charaName>
-      <id>-1</id>
-      <str>Invalid</str>
+      <id>101009</id>
+      <str>Xダンテトリガー</str>
       <data />
     </charaName>
     <image>
-      <id>-1</id>
-      <str>Invalid</str>
+      <id>101009</id>
+      <str>chara10100_09</str>
       <data />
     </image>
-    <rank>1</rank>
+    <rank>28</rank>
   </addImages9>
   <priority>0</priority>
   <ranks>

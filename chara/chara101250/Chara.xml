@@ -79,7 +79,7 @@
     <str>chara10125_03</str>
       <data />
     </image>
-    <rank>15</rank>
+    <rank>12</rank>
   </addImages3>
   <addImages4>
     <changeImg>true</changeImg>
@@ -93,21 +93,21 @@
     <str>chara10125_04</str>
       <data />
     </image>
-    <rank>20</rank>
+    <rank>15</rank>
   </addImages4>
   <addImages5>
-    <changeImg>false</changeImg>
+    <changeImg>true</changeImg>
     <charaName>
-      <id>-1</id>
-      <str>Invalid</str>
+      <id>101255</id>
+      <str>アイコ ダイヴアーマー</str>
       <data />
     </charaName>
     <image>
-      <id>-1</id>
-      <str>Invalid</str>
+      <id>101254</id>
+      <str>chara10125_05</str>
       <data />
     </image>
-    <rank>1</rank>
+    <rank>17</rank>
   </addImages5>
   <addImages6>
     <changeImg>false</changeImg>

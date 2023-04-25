@@ -54,18 +54,18 @@
     <rank>5</rank>
   </addImages1>
   <addImages2>
-    <changeImg>false</changeImg>
+    <changeImg>true</changeImg>
     <charaName>
-      <id>-1</id>
-      <str>Invalid</str>
+      <id>101232</id>
+      <str>ViA■</str>
       <data />
     </charaName>
     <image>
-      <id>-1</id>
-      <str>Invalid</str>
+      <id>101232</id>
+      <str>chara10123_02</str>
       <data />
     </image>
-    <rank>1</rank>
+    <rank>10</rank>
   </addImages2>
   <addImages3>
     <changeImg>false</changeImg>
